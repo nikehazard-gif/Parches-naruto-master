@@ -6,7 +6,7 @@ export async function processBinaryData(dataReader) {
   db.data = DEFAULT_DB;
 
   classes.forEach((classInstance) => {
-    console.log(`Reading class: ${classInstance.name}`);
+    //console.log(`Reading class: ${classInstance.name}`);
     const count = dataReader.readUnsignedInt();
 
     for (let i = 0; i < count; i++) {
