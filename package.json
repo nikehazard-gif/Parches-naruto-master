@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clone-deep": "^4.0.1",
+    "deep-diff": "^1.0.2",
+    "deep-object-diff": "^1.1.9",
+    "lodash": "^4.17.21",
+    "lowdb": "^7.0.1",
+    "pako": "^2.1.0"
+  }
+}

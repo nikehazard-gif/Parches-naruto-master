@@ -1,0 +1,27 @@
+import db from '../db.js';
+import pkg from 'lodash';
+
+export class Tree {
+  constructor(dataView) {
+    this.db = db.data['TTree'];
+
+    this.identifier = dataView.readUnsignedInt();
+    this.database = new Map();
+
+    this.database.set('Level', dataView.readUnsignedInt());
+    this.database.set('Exp', dataView.readUnsignedInt());
+    this.database.set('Train', dataView.readUnsignedInt());
+    this.database.set('ModelId', dataView.readUnsignedInt());
+
+    this.compare();
+  }
+
+  compare() {
+    const data = Object.fromEntries(this.database);
+
+    this.db.push({
+      ID: this.identifier,
+      data,
+    });
+  }
+}
