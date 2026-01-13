@@ -4,7 +4,7 @@ import _ from 'lodash';
 
 async function main() {
   const url =
-    'https://narutoeu.plaync100.net/public/2025122914/Resources/Bin/CombinServer/01000000.bin';
+    'https://narutoeu.plaync100.net/public/2026010614/Resources/Bin/CombinServer/01000000.bin';
 
   try {
     const dataReader = await loadBinaryData(url);
