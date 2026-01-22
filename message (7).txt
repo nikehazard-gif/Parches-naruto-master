@@ -1,0 +1,3504 @@
+14100001 Small EXP Scroll
+14100002 Medium EXP Scroll
+14100003 Large EXP Scroll
+14100004 Advanced EXP Scroll
+14100005 Epic EXP Scroll
+14100006 Lv.1 Silver Card
+14100007 Lv.2 Silver Card
+14100008 Lv.3 Silver Card
+14100009 Lv.4 Silver Card
+14100010 Lv.5 Silver Card
+14100011 Lv.6 Silver card
+14100012 Lv.7 Silver Card
+14100013 Lv.8 Silver Card
+14100014 Lv.9 Silver Card
+14100015 Lv. 10 Silver Card
+14100016 Tool Bag Expansion
+14100017 Channeling Scroll
+14100018 Treasure Talisman
+14100019 S Weapon Enhance Talisman
+14100020 S Weapon Covert Talisman
+14100021 Soul Refining Pill
+14100022 Silver
+14100023 Gold
+14100024 Coupon
+14100025 EXP
+14100026 Prestige
+14100027 S.Ability
+14100028 Vitality
+14100029 Hokage Proof
+14100030 Cursed Seal of Master Clan
+14100031 Haku's Tears
+14100032 Book of Taboo
+14100033 Chidori
+14100034 First Hokage's Relic
+14100035 Sand Gourd
+14100036 Icha Icha Paradise
+14100037 Fire Will
+14100038 Suzaku Ring
+14100039 Sigil of Fire
+14100040 Rinnnegann
+14100041 Angel of Paper
+14100042 Otoke Boya Yainma
+14100043 Iruka
+14100044 Inuzuka Kiba
+14100045 Uchiha Sasuke
+14100046 Level up Maniacs Pack 1
+14100047 Level up Maniacs Pack 2
+14100048 Level up Maniacs Pack 3
+14100049 Level up Maniacs Pack 4
+14100050 Level up Maniacs Pack 5
+14100051 Arena Rank Pack 1
+14100052 Arena Rank Pack 2
+14100053 Arena Rank Pack 3
+14100054 Arena Lucky Pack
+14100055 Combat Power Rank Pack 1
+14100056 Combat Power Rank Pack 2
+14100057 Combat Power Rank Pack 3
+14100058 Combat Power Rank Pack 4
+14100059 Combat Power Rank Pack 5
+14100060 Goal of Combat Power Pack
+14100061 Blue Ninja Soul
+14100062 Purple Ninja Soul
+14100063 Golden Ninja Soul
+14100064 Red Ninja Soul
+14100065 Royal Pack
+14100066 Senior Gift Pack
+14100067 Sharing Reward
+14100068 Media Pack
+14100069 Test Reward
+14100070 Cursed Seal Sasuke
+14100071 Compensation Pack 1
+14100072 Compensation Pack 2
+14100073 Compensation Pack 3
+14100074 VIP Lv.1 Pack
+14100075 VIP LV.2 Pack
+14100076 VIP LV.3 Pack
+14100077 VIP LV.4 Pack
+14100078 VIP LV.5 Pack
+14100079 VIP LV.6 Pack
+14100080 VIP LV.7 Pack
+14100081 VIP LV.8 Pack
+14100082 VIP LV.9 Pack
+14100083 VIP LV.10 Pack
+14100084 Newbie Card
+14100085 Bonus Pack
+14100086 Reward Card
+14100087 Ultimate Bonus Card
+14100088 Holiday Gift 1
+14100089 Holiday Gift 2
+14100090 Holiday Gift 3
+14100091 Holiday Gift 4
+14100092 Holiday Gift 5
+14100093 Clan Pack
+14100094 Duowan Exclusive Pack
+14100095 Media Exclusive Pack
+14100096 Luxury Bronze Pack
+14100097 Luxury Silver Pack
+14100098 Luxury Golden Pack
+14100099 Luxury Platinum Pack
+14100100 Luxury Diamond Pack
+14100101 Tsunade's Dice 10 Wins Pack
+14100102 Tsunade's Dice 20 Wins Pack
+14100103 Tsunade's Dice 30 Wins Pack
+14100104 Tsunade's Dice 40 Wins Pack
+14100105 Tsunade's Dice 50 Wins Pack
+14100106 Tsunade's Dice 60 Wins Pack
+14100107 Tsunade's Dice 70 Wins Pack
+14100108 Tsunade's Dice 80 Wins Pack
+14100109 Tsunade's Dice 90 Wins Pack
+14100110 Tsunade's Dice 100 Wins Pack
+14100111 Clan Change Pack
+14100112 Cool Hinata
+14100113 1000 Support Pack
+14100114 3000 Support Pack
+14100115 5000 Support Pack
+14100116 10000 Support Pack
+14100117 Perfect Fruit Pack
+14100118 Spending Rank Grade 1 Pack
+14100119 Spending Rank Grade 2 Pack
+14100120 Spending Rank Grade 3 Pack
+14100121 Spending Rank Grade 4 Pack
+14100122 Spending Rank Grade 5 Pack
+14100123 Love Romance Pack
+14100124 Warmth Pack
+14100125 Affection Pack
+14100126 Heart Rank Grade 1 Pack
+14100127 Heart Rank Grade 2 Pack
+14100128 Heart Rank Grade 3 Pack
+14100129 Heart Rank Grade 4 Pack
+14100130 Heart Rank Grade 5 Pack
+14100131 Variable Sakura
+14100132 Cross Server Point Grade 1 Pack
+14100133 Cross Server Point Grade 2 Pack
+14100134 Cross Server Point Grade 3 Pack
+14100135 Cross Server Point Grade 4 Pack
+14100136 Cross Server Point Grade 5 Pack
+14100137 Cross Server Point Grade 6 Pack
+14100138 Cross Server Point Grade 7 Pack
+14100139 Cross Server Point Grade 8 Pack
+14100140 Magpie Feather Pack
+14100501 Treasure Box  V
+14100502 Treasure Box  VI
+14100503 Treasure Box VII
+14100504 Treasure Box VIII
+14101001 Tail Beast Rank Pack 1
+14101002 Tail Beast Rank Pack 2
+14101003 Tail Beast Rank Pack 3
+14101004 Tail Beast Rank Pack 4
+14101005 Tail Beast Rank Pack 5
+14101006 Arena Rank Pack 1
+14101007 Arena Rank Pack 2
+14101008 Arena Rank Pack 3
+14101009 Combat Power Rank Pack 1
+14101010 Combat Power Rank Pack 2
+14101011 Combat Power Rank Pack 3
+14101012 Combat Power Rank Pack 4
+14101013 Combat Power Rank Pack 5
+14101015 Wind Box
+14101016 Water Box
+14101017 Thunder Box
+14101018 Sand Box
+14101019 Fire Box
+14101020 Shadow Box
+14101021 Colorful Soul
+14101022 1000SP
+14101023 2000SP
+14101024 5000SP
+14101025 10000SP
+14101026 Big S. Ability Pack
+14101027 Big Prestige Pack
+14101028 Shadow Legend Chest
+14101029 Temple Chest
+14101030 Outer Path Chest
+14101031 Devil Chest
+14101032 Shura Chest
+14101033 Panorama Chest
+14101034 Lv.115 Treasure Chest
+14101035 Fancy Box
+14101036 Treasure Box V
+14101037 Treasure Box  VI
+14101038 Treasure Box VII
+14101039 Treasure Box VIII
+14101040 Treasure Box IX
+14101041 Broken Kage's Soul Box
+14101042 Intact Kage's Soul Box
+14101043 Delicate Kage's Soul Box
+14101044 Tsunade's Dice 10 Wins Pack
+14101045 Tsunade's Dice 20 Wins Pack
+14101046 Tsunade's Dice 30 Wins Pack
+14101047 Tsunade's Dice 40 Wins Pack
+14101048 Tsunade's Dice 50 Wins Pack
+14101049 Tsunade's Dice 60 Wins Pack
+14101050 Tsunade's Dice 70 Wins Pack
+14101051 Tsunade's Dice 80 Wins Pack
+14101052 Tsunade's Dice 90 Wins Pack
+14101053 Tsunade's Dice 1000 Wins Pack
+14101054 Outer Path·Fuma Piece
+14101055 Demon Seal·Water Moon Piece
+14101056 Shura·Jizo Piece
+14101057 Universe·Thunder Piece
+14101058 God·Flame Piece
+14101059 Outer Path·Fuma
+14101060 Outer Path·Fuma
+14101061 Outer Path·Fuma
+14101062 Demon Seal·Water Moon
+14101063 Demon Seal·Water Moon
+14101064 Demon Seal·Water Moon
+14101065 Shura·Jizo
+14101066 Shura·Jizo
+14101067 Shura·Jizo
+14101068 Universe·Thunder
+14101069 Universe·Thunder
+14101070 Universe·Thunder
+14101071 God·Flame
+14101072 God·Flame
+14101073 God·Flame
+14101074 Free Daily
+14101075 Wind Box
+14101076 Water Box
+14101077 Thunder Box
+14101078 Sand Box
+14101079 Fire Box
+14101080 Shadow Box
+14101081 Moon Bells(Green)
+14101082 Moon Bells(Blue)
+14101083 Moon Bells(Purple)
+14101084 Moon Bells(Gold)
+14101085 Moon Bells(Red)
+14101086 中秋礼包
+14101087 Toad Sage
+14101088 Tsunade's Dice 10 Wins Pack
+14101089 Tsunade's Dice 20 Wins Pack
+14101090 Tsunade's Dice 30 Wins Pack
+14101091 Tsunade's Dice 40 Wins Pack
+14101092 Tsunade's Dice 50 Wins Pack
+14101093 Tsunade's Dice 60 Wins Pack
+14101094 Tsunade's Dice 70 Wins Pack
+14101095 Tsunade's Dice 80 Wins Pack
+14101096 Tsunade's Dice 90 Wins Pack
+14101097 Tsunade's Dice 1000 Wins Pack
+14101098 Uchiha Madara
+14101099 Reanimated Madara
+14101100 Nation Day Fund Pack I
+14101101 Nation Day Fund Pack II
+14101102 Nation Day Fund Pack III
+14101103 Nation Day Fund Pack IV
+14101104 Nation Day Fund Pack V
+14101105 Broken Fruit Pack
+14101106 Plump Fruit Pack
+14101107 Perfect Fruit Pack
+14101108 Broken EXP Book
+14101109 Common EXP Book
+14101110 Complete EXP Book
+14101111 Rare EXP Book
+14101112 Legendary EXP Book
+14101113 Sina Exclusive Pack
+14101114 Colorful Soul*5
+14101115 Colorful Soul*10
+14101116 Top Stone*5
+14101117 Top Stone*10
+14101118 Grade 1 Best Kill Pack
+14101119 Grade 2 Best Kill Pack
+14101120 Grade 3 Best Kill Pack
+14101121 Grade 4 Best Kill Pack
+14101122 Grade 5 Best Kill Pack
+14101123 Grade 6 Best Kill Pack
+14101124 50 Kill Pack
+14101125 100 Kill Pack
+14101126 200 Kill Pack
+14101127 Spree Pack
+14101128 Candy Box
+14101129 Witch Hat Box
+14101130 Bat Box
+14101131 Ghost Box
+14101132 Uchiha Obito
+14101133 Outer Path·Obito
+14101134 Magic Box 20 Times Chest
+14101135 Magic Box 50 Times Chest
+14101136 Magic Box 100 Times Chest
+14101137 Magic Box 200 Times Chest
+14101138 Magic Box 500 Times Chest
+14101139 Magic Box 1000 Times Chest
+14101140 Tsunade's Dice 10 Wins Pack
+14101141 Tsunade's Dice 20 Wins Pack
+14101142 Tsunade's Dice 30 Wins Pack
+14101143 Tsunade's Dice 40 Wins Pack
+14101144 Tsunade's Dice 50 Wins Pack
+14101145 Tsunade's Dice 60 Wins Pack
+14101146 Tsunade's Dice 70 Wins Pack
+14101147 Tsunade's Dice 80 Wins Pack
+14101148 Tsunade's Dice 90 Wins Pack
+14101149 Tsunade's Dice 100 Wins Pack
+14101150 Wind Box
+14101151 Water Box
+14101152 Thunder Box
+14101153 Sand Box
+14101154 Fire Box
+14101155 Shadow Box
+14101156 Awakening Pack
+14101157 Awakening Pack (Lv.40)
+14101158 Awakening Pack (Lv.50)
+14101159 Awakening Pack (Lv.60)
+14101160 Peerless Pack
+14101161 Peerless Pack (Lv.75)
+14101162 Peerless Pack (Lv.80)
+14101163 Peerless Pack (Lv.85)
+14101164 Six-Path Pack
+14101165 Six-Path Pack (Lv.95)
+14101166 Six-Path Pack (Lv.100)
+14101167 Six-Path Pack (Lv.105)
+14101168 Outer Path· Fuma Chest
+14101169 Silence·Watermoon Chest
+14101170 Shura·Jizo Chest
+14101171 Universe·Thunder Chest
+14101172 Growth Fund 1 Pack
+14101173 Growth Fund 2 Pack
+14101174 Growth Fund 3 Pack
+14101175 Growth Fund 4 Pack
+14101176 Growth Fund 5 Pack
+14101177 Silver Pack
+14101188 Awakening Pack
+14101189 Awakening Pack (Lv.40)
+14101190 Awakening Pack (Lv.50)
+14101191 Awakening Pack (Lv.60)
+14101192 Peerless Pack
+14101193 Peerless Pack (Lv.75)
+14101194 Peerless Pack (Lv.80)
+14101195 Peerless Pack (Lv.85)
+14101196 Six-Path Pack
+14101197 Six-Path Pack (Lv.95)
+14101198 Six-Path Pack (Lv.100)
+14101199 Six-Path Pack (Lv.105)
+14101200 S Weapon Box Ⅳ
+14101201 S Weapon Box Ⅴ
+14101202 S Weapon Box Ⅵ
+14101203 S Weapon Box Ⅶ
+14101204 S Weapon Box VIII
+14101205 S Weapon Box IX
+14101206 S Weapon Box X
+14101208 S Weapon Box IX
+14101209 S Weapon Box X
+14101210 梦想彩蛋
+14101211 羁绊彩蛋
+14101212 无尽彩蛋
+14101213 Christmas Gift Box
+14101214 Dreamed Xmas Egg
+14101215 Fettered Xmas Egg
+14101216 Infinite Xmas Egg
+14101223 Christmas gift
+14101224 一档收集排行礼包
+14101225 二档收集排行礼包
+14101226 三档收集排行礼包
+14101227 四档收集排行礼包
+14101228 五档收集排行礼包
+14101229 六档收集排行礼包
+14101230 普通圣诞礼盒
+14101231 高档圣诞礼盒
+14101232 精美圣诞礼盒
+14101233 豪华圣诞礼盒
+14101234 梦幻圣诞礼盒
+14101235 测试用1000经验丸
+14101239 Star Sakura
+14101240 Warm Hinata
+14101241 Angel Konan
+14101243 1st Class Collection Pack
+14101244 2nd Class Collection Pack
+14101245 3rd Class Collection Pack
+14101246 4th Class Collection Pack
+14101247 5th Class Collection Pack
+14101248 6th Class Collection Pack
+14101249 Normal Chrismas Gift
+14101250 Fineness Chrismas Gift
+14101251 Premium Chrismas Gift
+14101252 Splendid Chrismas Gift
+14101253 Dreaming Chrismas Gift
+14102001 Gingerbread Man
+14102002 Konan Badge
+14102003 Paper Gift Pack
+14102004 Paper Flower Pack
+14102005 Angelic Gift Pack
+14103111 Tsunade's Dice 10 Wins Pack
+14103112 Tsunade's Dice 20 Wins Pack
+14103113 Tsunade's Dice 30 Wins Pack
+14103114 Tsunade's Dice 40 Wins Pack
+14103115 Tsunade's Dice 50 Wins Pack
+14103116 Tsunade's Dice 60 Wins Pack
+14103117 Tsunade's Dice 70 Wins Pack
+14103118 Tsunade's Dice 80 Wins Pack
+14103119 Tsunade's Dice 90 Wins Pack
+14103120 Tsunade's Dice 100 Wins Pack
+14103233 Reanimation·Silver
+14103301 Drum Spirit
+14103302 Ninja Amulet
+14103303 Drum Spirit Rank Pack 1
+14103304 Drum Spirit Rank Pack 2
+14103305 Drum Spirit Rank Pack 3
+14103306 Drum Spirit Rank Pack 4
+14103307 Drum Spirit Rank Pack 5
+14103308 Drum Spirit Rank Pack 6
+14103309 Normal Drum Box
+14103310 Advanced Drum Box
+14103311 Fancy Drum Box
+14103312 Luxury Drum Box
+14103313 Epic Drum Box
+14103314 Dragonfish Summon Scroll
+14103315 Butterfly Choji
+14103316 10-Tailed Obito
+14103317 Peaceful Bag
+14103318 Lucky Bag
+14103319 Blessed Bag
+14103320 God of Wealth's Bag
+14103331 Big Wealth Pack
+14103332 Drum Chest
+14103333 Tsunade's Dice 10 Wins Pack
+14103334 Tsunade's Dice 20 Wins Pack
+14103335 Tsunade's Dice 30 Wins Pack
+14103336 Tsunade's Dice 40 Wins Pack
+14103337 Tsunade's Dice 50 Wins Pack
+14103338 Tsunade's Dice 60 Wins Pack
+14103339 Tsunade's Dice 70 Wins Pack
+14103340 Tsunade's Dice 80 Wins Pack
+14103341 Tsunade's Dice 90 Wins Pack
+14103342 Tsunade's Dice 100 Wins Pack
+14103401 Green Crystal Pack
+14103402 Purple Crystal Pack
+14103403 Orange Crystal Pack
+14103404 Heart of Energy
+14103405 Heart of Charm
+14103406 Heart of Warmth
+14103407 The Pack of the Love
+14103408 Outer Path Chest
+14103409 Silence Chest
+14103410 Shura Chest
+14103411 Universe  Chest
+14104001 Weak EXP Book
+14104002 Normal Rose Box
+14104003 Advanced Rose Box
+14104004 Exquisite Rose Box
+14104005 Luxury Rose Box
+14104006 Dream Rose Box
+14104007 【Whisper of Love】Title Card
+14104008 【Guardian Wing】Title Card
+14104009 Orange Equipment Box
+14104010 Archangel Scroll
+14104011 Ofanim Scroll
+14104012 Seraph Scroll
+14104013 Green Gourd
+14104014 Blue Gourd
+14104015 Purple Gourd
+14104016 Golden Gourd
+14104017 Orange Gourd
+14104018 Tsunade's Dice 10 Wins Pack
+14104019 Tsunade's Dice 20 Wins Pack
+14104020 Tsunade's Dice 30 Wins Pack
+14104021 Tsunade's Dice 40 Wins Pack
+14104022 Tsunade's Dice 50 Wins Pack
+14104023 Tsunade's Dice 60 Wins Pack
+14104024 Tsunade's Dice 70 Wins Pack
+14104025 Tsunade's Dice 80 Wins Pack
+14104026 Tsunade's Dice 90 Wins Pack
+14104027 Tsunade's Dice 100 Wins Pack
+14104028 【Space Ruler】
+14104029 【Space Explorer】
+14104030 【Space Ranger】
+14105008 Fortune Pack
+14105009 Genin Pack
+14105010 Chunin Pack
+14105011 Jounin Pack
+14105012 Kage's Pack
+14105013 Peerless Ninja Box
+14105014 Fancy Ninja Box
+14105015 Dreamy Ninja Box
+14105016 Surprising Ninja Box
+14105017 Luxury Ninja Box
+14105018 Sweet Ninja Box
+14105019 Exquisite Ninja Box
+14105020 Ninja Sharing Box
+14105021 1~3 place Warrior Pack
+14105022 4~10 place Warrior Pack
+14105023 11~20 place Warrior Pack
+14105024 21~50 place Warrior Pack
+14105025 51~100 place Warrior Pack
+14105026 101~200 place Warrior Pack
+14105027 Basic Sacred Fruit Pack
+14105028 Fine Sacred Fruit Pack
+14105029 Delicate Sacred Fruit Pack
+14105030 Luxury Sacred Fruit Pack
+14105031 Fancy Sacred Fruit Pack
+14105032 100-kill pack
+14105033 200-kill pack
+14105034 300-kill pack
+14105035 500-kill pack
+14105036 1000-kill pack
+14105037 Valor Pack
+14105038 Yagura
+14105039 Susanoo·Itachi
+14105040 S. Weapon Box
+14105041 Great Fireball Pack
+14105042 Tsukuyomi  Pack
+14105043 Amaterasu Pack
+14105044 Susanoo Pack
+14105045 Fortune Pack
+14105046 Genin Pack
+14105047 Chunin Pack
+14105048 Jounin Pack
+14105049 Kage's Pack
+14105050 Zero Box
+14105051 Azure Box
+14105052 White Box
+14105053 Vermilion Box
+14105054 Boar Box
+14105055 Void Box
+14105056 South Box
+14105057 North Box
+14105058 Three Box
+14105059 Sphere Box
+14105060 Akatsuki Box
+14105061 Kage Box
+14105062 Sage Box
+14105063 Six Paths Box
+14105064 Accumulative Open 20 Times Magic Box
+14105065 Accumulative Open 50 Times Magic Box
+14105066 Accumulative Open 100 Times Magic Box
+14105067 Accumulative Open 200 Times Magic Box
+14105068 Accumulative Open 500 Times Magic Box
+14105069 Accumulative Open 1000 Times Magic Box
+14105070 Mystic Sea Treasure
+14105101 十尾带土
+14105103 Orbs
+14105104 Missing-nin Ring
+14105105 Treasure Rank Pack 1
+14105106 Treasure Rank Pack 2
+14105107 Treasure Rank Pack 3
+14105108 Treasure Rank Pack 4
+14105109 Treasure Rank Pack 5
+14105110 Treasure Rank Pack 6
+14105111 Normal Missing-nin Ring Box
+14105112 Adv. Missing-nin Ring Box
+14105113 Premium Missing-nin Ring Box
+14105114 Luxury Missing-nin Ring Box
+14105115 Dream Missing-nin Ring Box
+14105116 50 Arrest Pack
+14105117 100 Arrest Pack
+14105118 200 Arrest Pack
+14105119 500 Arrest Pack
+14105120 1000 Arrest Pack
+14105121 Adventure Pack
+14105122 Spirit Fox Summon Scroll
+14105123 Wind Box
+14105124 Water Box
+14105125 Thunder Box
+14105126 Sand Box
+14105127 Fire Box
+14105128 Shadow Box
+14105129 Fortune Pack
+14105130 Genin Pack
+14105131 Chunin Pack
+14105132 Jounin Pack
+14105133 Kage's Pack
+14105134 Jellyfish Jade
+14105135 Seahorse Jade
+14105136 Octopus Jade
+14105137 Peacock Pack
+14105138 White Tiger Pack
+14105139 Eight Gates Gai
+14105140 Dragon Pack
+14105141 Eight Gates Pack
+14105142 5-kill pack
+14105143 15-kill pack
+14105144 35-kill pack
+14105145 60-kill pack
+14105146 100-kill pack
+14105147 Zero Box
+14105148 Azure Box
+14105149 White Box
+14105150 Vermilion Box
+14105151 Boar Box
+14105152 Void Box
+14105153 South Box
+14105154 North Box
+14105155 Three Box
+14105156 Sphere Box
+14105157 Akatsuki Box
+14105158 Kage Box
+14105159 Sage Box
+14105160 Six Paths Box
+14105161 Tsunade's Dice 10 Wins Pack
+14105162 Tsunade's Dice 20 Wins Pack
+14105163 Tsunade's Dice 30 Wins Pack
+14105164 Tsunade's Dice 40 Wins Pack
+14105165 Tsunade's Dice 50 Wins Pack
+14105166 Tsunade's Dice 60 Wins Pack
+14105167 Tsunade's Dice 70 Wins Pack
+14105168 Tsunade's Dice 80 Wins Pack
+14105169 Tsunade's Dice 90 Wins Pack
+14105170 Tsunade's Dice 100 Wins Pack
+14105171 Enjoyable Thanksgiving Pack
+14105172 Warm Thanksgiving Pack
+14105173 Passionate Thanksgiving Pack
+14105174 Extreme Thanksgiving Pack
+14105175 Colorful Pack
+14105176 Love Pack
+14105177 Emotional Pack
+14105178 Normal Migration Pack
+14105179 Luxury Migration Pack
+14105185 Poor Treasure Map
+14105186 Good Treasure Map
+14105187 Fine Treasure Map
+14105188 Low Rank Jade Bag
+14105189 High Rank Jade Bag
+14105190 Low Rank Blue Diamond Bag
+14105191 High Rank Blue Diamond Bag
+14105192 Low Rank Purple Gold Bag
+14105193 High Rank Purple Gold Bag
+14105194 Zero Box
+14105195 Azure Box
+14105196 White Box
+14105197 Vermilion Box
+14105198 Boar Box
+14105199 Void Box
+14105200 South Box
+14105201 North Box
+14105202 Three Box
+14105203 Sphere Box
+14105204 Akatsuki Box
+14105205 Kage Box
+14105206 Sage Box
+14105207 Six Paths Box
+14105208 Basic Emblem Box
+14105209 Adv. Emblem Box
+14105210 Fine Emblem Box
+14105211 Luxury Emblem Box
+14105212 Mega Emblem Box
+14105213 Starry Chest
+14105214 Moonlight Chest
+14105215 Sunlight Chest
+14105216 Demon Kill Pack
+14105217 Boss Kill Pack
+14105218 Ancient Chest
+14105219 No.1-2 Demon Hunt Pack
+14105220 No.3-4 Demon Hunt Pack
+14105221 No.5-10 Demon Hunt Pack
+14105222 No.11-20 Demon Hunt Pack
+14105223 No.21-50 Demon Hunt Pack
+14105224 No.51-100 Demon Hunt Pack
+14105225 Crystal Blue Dragon Summoning Scroll
+14105226 Ancient Emblem
+14105227 Genin Pack
+14105228 Chunin Pack
+14105229 Jounin Pack
+14105230 Kage's Pack
+14105231 Party Scores
+14105232 Tiger Pack
+14105233 Vermillion Pack
+14105234 Tortoise Pack
+14105235 Dragon Pack
+14105236 Tsunade's Dice 10 Wins Pack
+14105237 Tsunade's Dice 20 Wins Pack
+14105238 Tsunade's Dice 30 Wins Pack
+14105239 Tsunade's Dice 40 Wins Pack
+14105240 Tsunade's Dice 50 Wins Pack
+14105241 Tsunade's Dice 60 Wins Pack
+14105242 Tsunade's Dice 70 Wins Pack
+14105243 Tsunade's Dice 80 Wins Pack
+14105244 Tsunade's Dice 90 Wins Pack
+14105245 Tsunade's Dice 100 Wins Pack
+14105246 Genin Pack
+14105247 Chunin Pack
+14105248 Jounin Pack
+14105249 Kage's Pack
+14105250 Zero Box
+14105251 Azure Box
+14105252 White Box
+14105253 Vermilion Box
+14105254 Boar Box
+14105255 Void Box
+14105256 South Box
+14105257 North Box
+14105258 Three Box
+14105259 Sphere Box
+14105260 Akatsuki Box
+14105261 Kage Box
+14105262 Sage Box
+14105263 Six Paths Box
+14105264 Awakening Pack
+14105265 Awakening Pack (Lv.40)
+14105266 Awakening Pack (Lv.50)
+14105267 Awakening Pack (Lv.60)
+14105268 Peerless Pack
+14105269 Peerless Pack (Lv.75)
+14105270 Peerless Pack (Lv.80)
+14105271 Peerless Pack (Lv.85)
+14105272 Six-Path Pack
+14105273 Six-Path Pack (Lv.95)
+14105274 Six-Path Pack (Lv.100)
+14105275 Six-Path Pack (Lv.105)
+14105276 First Top-Up Pack
+14105277 Smile Gift Box
+14105278 Zero Box
+14105279 Azure Box
+14105280 White Box
+14105281 Vermilion Box
+14105282 Boar Box
+14105283 Void Box
+14105284 South Box
+14105285 North Box
+14105286 Three Box
+14105287 Sphere Box
+14105288 Akatsuki Box
+14105289 Kage Box
+14105290 Sage Box
+14105291 Six Paths Box
+14105292 Tsunade's Dice 10 Wins Pack
+14105293 Tsunade's Dice 20 Wins Pack
+14105294 Tsunade's Dice 30 Wins Pack
+14105295 Tsunade's Dice 40 Wins Pack
+14105296 Tsunade's Dice 50 Wins Pack
+14105297 Tsunade's Dice 60 Wins Pack
+14105298 Tsunade's Dice 70 Wins Pack
+14105299 Tsunade's Dice 80 Wins Pack
+14105300 Tsunade's Dice 90 Wins Pack
+14105301 Tsunade's Dice 100 Wins Pack
+14105302 Fortune Pack
+14105303 Genin Pack
+14105304 Chunin Pack
+14105305 Jounin Pack
+14105306 Kage's Pack
+14105307 Lucky Clown Summoning Scroll
+14105308 Hot Shot
+14105309 Normal Ball Pack
+14105310 Fine Ball Pack
+14105311 Exquisite Ball Pack
+14105312 Luxury Ball Pack
+14105313 Fantasy Ball Pack
+14105314 Rank-1 Amusement Ranking Pack
+14105315 Rank-2 Amusement Ranking Pack
+14105316 Rank-3 Amusement Ranking Pack
+14105317 Rank-4 Amusement Ranking Pack
+14105318 Rank-5 Amusement Ranking Pack
+14105319 Rank-6 Amusement Ranking Pack
+14105320 Shell
+14105321 Zero Box
+14105322 Azure Box
+14105323 White Box
+14105324 Vermilion Box
+14105325 Boar Box
+14105326 Void Box
+14105327 South Box
+14105328 North Box
+14105329 Three Box
+14105330 Sphere Box
+14105331 Akatsuki Box
+14105332 Kage Box
+14105333 Sage Box
+14105334 Six Paths Box
+14105335 Titan Cup
+14105336 Caddie Fuleco Summon Scroll
+14105337 Star Fuleco Summon Scroll
+14105338 Master Fuleco Summon Scroll
+14105339 Football (Green)
+14105340 Football (Blue)
+14105341 Football (Purple)
+14105342 Football (Golden)
+14105343 Football (Red)
+14105344 Genin Pack
+14105345 Chunin Pack
+14105346 Jounin Pack
+14105347 Kage's Pack
+14105348 Zero Box
+14105349 Azure Box
+14105350 White Box
+14105351 Vermilion Box
+14105352 Boar Box
+14105353 Void Box
+14105354 South Box
+14105355 North Box
+14105356 Three Box
+14105357 Sphere Box
+14105358 Akatsuki Box
+14105359 Kage Box
+14105360 Sage Box
+14105361 Six Paths Box
+14105362 Accumulative Open 20 Times Magic Box
+14105363 Accumulative Open 50 Times Magic Box
+14105364 Accumulative Open 100 Times Magic Box
+14105365 Accumulative Open 200 Times Magic Box
+14105366 Accumulative Open 500 Times Magic Box
+14105367 Accumulative Open 1000 Times Magic Box
+14105371 Refined Equipment
+14105372 Blazing Equipment
+14105373 Spring Equipment
+14105374 Rock Equipment
+14105375 Fire-Forged Equipment
+14105403 Shovel
+14105404 Space Diamond
+14105405 Dark Night Crystal
+14105441 Crystal Seed
+14105442 Dark Night Ranking Pack 1
+14105443 Dark Night Ranking Pack 2
+14105444 Dark Night Ranking Pack 3
+14105445 Dark Night Ranking Pack 4
+14105446 Dark Night Ranking Pack 5
+14105447 Dark Night Ranking Pack 6
+14105448 Six Paths Sage
+14105449 Akatsuki's Treasure
+14105450 Yellow Crystal Pack
+14105451 Red Crystal Pack
+14105452 Yellow Diamond Pack
+14105453 Red Diamond Pack
+14105454 Tsunade's Dice 10 Wins Pack
+14105455 Tsunade's Dice 20 Wins Pack
+14105456 Tsunade's Dice 30 Wins Pack
+14105457 Tsunade's Dice 40 Wins Pack
+14105458 Tsunade's Dice 50 Wins Pack
+14105459 Tsunade's Dice 60 Wins Pack
+14105460 Tsunade's Dice 70 Wins Pack
+14105461 Tsunade's Dice 80 Wins Pack
+14105462 Tsunade's Dice 90 Wins Pack
+14105463 Tsunade's Dice 100 Wins Pack
+14105464 Eight Gates Gai
+14105465 Genin Pack
+14105466 Chunin Pack
+14105467 Jounin Pack
+14105468 Kage's Pack
+14105469 Accumulative Open 20 Times Magic Box
+14105470 Accumulative Open 50 Times Magic Box
+14105471 Accumulative Open 100 Times Magic Box
+14105472 Accumulative Open 200 Times Magic Box
+14105473 Accumulative Open 500 Times Magic Box
+14105474 Accumulative Open 1000 Times Magic Box
+14105475 Lucky Gift Pack
+14105476 Surprise Gift Pack
+14105477 Glory Gift Pack
+14105478 400 Gold Purple Gift Pack
+14105479 400 Gold Golden Gift Pack
+14105480 400 Gold Red Gift Pack
+14105481 1600 Gold Purple Gift Pack
+14105482 1600 Gold Golden Gift Pack
+14105483 1600 Gold Red Gift Pack
+14105484 4000 Gold Purple Gift Pack
+14105485 4000 Gold Golden Gift Pack
+14105486 4000 Gold Red Gift Pack
+14105487 8000 Gold Purple Gift Pack
+14105488 8000 Gold Golden Gift Pack
+14105489 8000 Gold Red Gift Pack
+14105490 16000 Gold Purple Gift Pack
+14105491 16000 Gold Golden Gift Pack
+14105492 16000 Gold Red Gift Pack
+14105493 28000 Gold Purple Gift Pack
+14105494 28000 Gold Golden Gift Pack
+14105495 28000 Gold Red Gift Pack
+14105496 48000 Gold Purple Gift Pack
+14105497 48000 Gold Golden Gift Pack
+14105498 48000 Gold Red Gift Pack
+14105499 88000 Gold Purple Gift Pack
+14105500 88000 Gold Golden Gift Pack
+14105501 88000 Gold Red Gift Pack
+14105502 Genin Pack
+14105503 Chunin Pack
+14105504 Jounin Pack
+14105505 Kage's Pack
+14105506 Dart
+14105507 Plume
+14105508 Flaming Dragon Summon Scroll
+14105509 Common Egg Box
+14105510 Fine Egg Box
+14105511 Exquisite Egg Box
+14105512 Luxury Egg Box
+14105513 Fancy Egg Box
+14105514 Dragon Slayer Box
+14105515 Dragon Slayer Pack 1
+14105516 Dragon Slayer Pack 2
+14105517 Dragon Slayer Pack 3
+14105518 Dragon Slayer Pack 4
+14105519 Dragon Slayer Pack 5
+14105520 Dragon Slayer Pack 6
+14105521 Sunshine
+14105522 White Strength Sakura
+14105523 Genin Pack
+14105524 Chunin Pack
+14105525 Jounin Pack
+14105526 Kage's Pack
+14105527 Fortune Pack
+14105528 Spending Ranking Pack A
+14105529 Spending Ranking Pack B
+14105530 Spending Ranking Pack C
+14105531 Spending Ranking Pack D
+14105532 Spending Ranking Pack E
+14105533 White Strength Sakura
+14105534 1st Top up Ranking Pack
+14105535 2nd Top up Ranking Pack
+14105536 3rd Top up Ranking Pack
+14105537 4th Top up Ranking Pack
+14105538 5th Top up Ranking Pack
+14105539 6th Top up Ranking Pack
+14105558 Lv.75 Orange Set
+14105586 Susanoo Kakashi
+14105601 First Anniversary Pack 1
+14105602 First Anniversary Pack 2
+14105603 First Anniversary Pack 3
+14105604 First Anniversary Pack 4
+14105605 First Anniversary Pack 5
+14105606 First Anniversary Pack 6
+14105607 First Anniversary Pack 7
+14105608 First Anniversary Pack 8
+14105609 First Anniversary Pack 9
+14105610 First Anniversary Pack 10
+14105611 First Anniversary Pack 11
+14105612 First Anniversary Pack 12
+14105613 First Anniversary Pack 13
+14105614 First Anniversary Pack 14
+14105615 First Anniversary Pack 15
+14105616 First Anniversary Pack 16
+14105617 First Anniversary Pack 17
+14105618 First Anniversary Pack 18
+14105619 First Anniversary Pack 19
+14105620 First Anniversary Pack 20
+14105621 First Anniversary Recharge Bonus
+14105622 Gift Pack
+14105623 Lucky Stars
+14105624 Candies
+14105625 Gingerbreads
+14105626 Angel Treasure
+14105627 Lucky Cat Summon Scroll
+14105628 Angel Gear Chest
+14105629 Pray Ranking Pack Rank 1
+14105630 Pray Ranking Pack Rank 2
+14105631 Pray Ranking Pack Rank 3
+14105632 Pray Ranking Pack Rank 4
+14105633 Pray Ranking Pack Rank 5
+14105634 Pray Ranking Pack Rank 6
+14105635 Twilight Pack
+14105636 Dawn Pack
+14105637 Venus Pack
+14105638 Genin Pack
+14105639 Chunin Pack
+14105640 Jounin Pack
+14105641 Kage's Pack
+14105642 Zero Box
+14105643 Azure Box
+14105644 White Box
+14105645 Vermilion Box
+14105646 Boar Box
+14105647 Void Box
+14105648 South Box
+14105649 North Box
+14105650 Three Box
+14105651 Sphere Box
+14105652 Akatsuki Box
+14105653 Kage Box
+14105654 Sage Box
+14105655 Six Paths Box
+14105750 Zero Box
+14105751 Azure Box
+14105752 White Box
+14105753 Vermilion Box
+14105754 Boar Box
+14105755 Void Box
+14105756 South Box
+14105757 North Box
+14105758 Three Box
+14105759 Sphere Box
+14105760 Akatsuki Box
+14105761 Kage Box
+14105762 Sage Box
+14105763 Six Paths Box
+14105764 Elemental Stone
+14105765 Sakura Soul
+14105766 Cherry
+14105767 Bad seed
+14105768 Ordinary seed
+14105769 Top seed
+14105770 Protection potion
+14105771 Super fertilizer
+14105772 Sakura Ranking Pack 1
+14105773 Sakura Ranking Pack 2
+14105774 Sakura Ranking Pack 3
+14105775 Sakura Ranking Pack 4
+14105776 Sakura Ranking Pack 5
+14105777 Sakura Ranking Pack 6
+14105778 level 1 culture pack
+14105779 level 2 culture pack
+14105780 level 3 culture pack
+14105781 level 4 culture pack
+14105782 Sakura Fairy
+14105783 Angel Jewelry
+14105784 Tsunade's Dice 10 Wins Pack
+14105785 Tsunade's Dice 20 Wins Pack
+14105786 Tsunade's Dice 30 Wins Pack
+14105787 Tsunade's Dice 40 Wins Pack
+14105788 Tsunade's Dice 50 Wins Pack
+14105789 Tsunade's Dice 60 Wins Pack
+14105790 Tsunade's Dice 70 Wins Pack
+14105791 Tsunade's Dice 80 Wins Pack
+14105792 Tsunade's Dice 90 Wins Pack
+14105793 100 Win Gift Pack
+14105794 Lucky  Gift Pack
+14105795 Astrology Ticket
+14105796 Lucky Star
+14105797 Fate Stones
+14105798 Astrology Ranking Pack 1
+14105799 Astrology Ranking Pack 2
+14105800 Astrology Ranking Pack 3
+14105801 Astrology Ranking Pack 4
+14105802 Astrology Ranking Pack 5
+14105803 Astrology Ranking Pack 6
+14105804 level 1 culture pack
+14105805 level 2 culture pack
+14105806 level 3 culture pack
+14105807 level 4 culture pack
+14105808 level 5 culture pack
+14105809 Black Witch
+14105810 Ohtsutsuki Kaguya
+14105811 Tsunade's Dice 100 Wins Pack
+14105812 Shark Summoning Scroll
+14105813 Party Ranking Pack 1
+14105814 Party Ranking Pack 2
+14105815 Party Ranking Pack 3
+14105816 Party Ranking Pack 4
+14105817 Party Ranking Pack 5
+14105818 Party Ranking Pack 6
+14105819 Abyss Chest
+14105820 Rank-1 Taboo box
+14105821 Rank-2 Taboo box
+14105822 Rank-3 Taboo box
+14105823 Rank-4 Taboo box
+14106001 Sacred Fruit
+14106002 statue soul
+14106003 Wind Box
+14106004 Water Box
+14106005 Thunder Box
+14106006 Sand Box
+14106007 Fire Box
+14106008 Shadow Box
+14107001 Socket Jade
+14107002 Top Stone
+14107003 Fairy
+14107004 Lotus Spar
+14107005 Ice Release Spar
+14107006 Fiend Spar
+14107007 Sand Binding Spar
+14107008 Nirvana Spar
+14107009 Sacred Spar
+14107010 Colorful Spar
+14107011 Lotus Stone
+14107012 Ice Release Stone
+14107013 Fiend Stone
+14107014 Sand Binding Stone
+14107015 Nirvana Stone
+14107016 Sacred Stone
+14107017 Inferior Potency Pill
+14107018 Small Potency Pill
+14107019 Medium Potency Pill
+14107020 Big Potency Pill
+14107021 Advanced Potency Pill
+14107022 Super Potency Pill
+14107023 [NO.1 Ninja] Gift Pack
+14107024 [Legendary Ninja] Gift Pack
+14107025 [Leader of Konoha] Gift Pack
+14107026 [Elite Ninja]  Gift Pack
+14107027 Green Evolution Scroll
+14107028 Blue Evolution Scroll
+14107029 Purple Evolution Scroll
+14107030 Gold Evolution Scroll
+14107031 Red Evolution Scroll
+14107032 Enma Evolution Scroll
+14107033 Toad Bunta Evolution Scroll
+14107034 Manda Evolution Scroll
+14107057 Leap Rune Stone
+14107058 General Recruit Proof
+14107059 Primary Recruit Proof
+14107060 Mid Recruit Proof
+14107061 Advanced Recruit Proof
+14107062 Epic Recruit Proof
+14107063 Loot Card
+14107064 Hunting Card
+14107065 Skip Card
+14107066 Small Activity Potion
+14107067 Large Activity Potion
+14107068 Epic Activity Potion
+14107069 Primary Egg Summon Scroll
+14107070 Uzumaki Naruto
+14107071 Quest Refresh Card
+14107072 Jade of Soul
+14107073 Jade of Blood
+14107074 Jade of Spirit
+14107075 Universe Spar
+14107076 Universe Guarding Stone
+14107077 Concentrated Nutrient
+14107078 Special Energy Pill
+14107079 Wood Chakra
+14107080 Jinchuriki Practice Pill
+14107081 Jinchuriki Promotion Pill
+14107082 Samsara Stone
+14107083 EXP Fruit
+14107084 EXP Fruit
+14107085 EXP Fruit
+14107086 EXP Fruit
+14107087 EXP Fruit
+14107088 Silver Fruit
+14107089 Silver Fruit
+14107090 Silver Fruit
+14107091 Silver Fruit
+14107092 Silver Fruit
+14107093 Material Fruit
+14107094 Material Fruit
+14107095 Material Fruit
+14107096 Material Fruit
+14107097 Material Fruit
+14107098 Potency Fruit
+14107099 Potency Fruit
+14107100 Potency Fruit
+14107101 Potency Fruit
+14107102 Potency Fruit
+14107103 S.Ability Fruit
+14107104 S.Ability Fruit
+14107105 S.Ability Fruit
+14107106 S.Ability Fruit
+14107107 S.Ability Fruit
+14107108 Coupon Fruit
+14107109 Coupon Fruit
+14107110 Coupon Fruit
+14107111 Coupon Fruit
+14107112 Coupon Fruit
+14107113 Jade Fruit
+14107114 Jade Fruit
+14107115 Jade Fruit
+14107116 Jade Fruit
+14107117 Jade Fruit
+14107118 Universe Spirit
+14107119 Jade of Sage
+14107120 Fast Auto-Play Card
+14107121 Feather Crystal
+14107122 White Coat Cursed Sasuke
+14107123 Sai
+14107124 Special EXP Scroll
+14107125 Uzumaki Naruto
+14107126 [Strongest Guild] Title Pack
+14107127 Testing Potency Pill
+14107128 Potency Gift Box
+14107129 Potency Gift Pack
+14107130 Trumpet
+14107135 Lava
+14107136 Super Potency Box
+14107137 Supreme Potency Box
+14107138 S Weapon Enhance Fragment
+14107139 VIP1 Value Pack
+14107140 VIP2 Value Pack
+14107141 VIP3 Value Pack
+14107142 VIP4 Value Pack
+14107143 VIP5 Value Pack
+14107144 VIP6 Value Pack
+14107145 VIP7 Value Pack
+14107146 VIP8 Value Pack
+14107147 VIP9 Value Pack
+14107148 VIP10 Value Pack
+14107149 VIP Daily Material Pack
+14107150 VIP Daily Potency Pack
+14107151 Kaguya Power Lv1 Value Pack
+14107152 Kaguya Power Lv2 Value Pack
+14107153 Kaguya Power Lv3 Value Pack
+14107154 Kaguya Power Lv4 Value Pack
+14107155 Kaguya Power Lv5 Value Pack
+14107156 Kaguya Power Lv6 Value Pack
+14107157 Kaguya Power Daily S Weapon Pack
+14107158 Kaguya Power Daily Jade Pack
+14107159 Kaguya Power Lv1 Daily  Pack
+14107160 Kaguya Power Lv2 Daily  Pack
+14107161 Kaguya Power Lv3 Daily  Pack
+14107162 Kaguya Power Lv4 Daily  Pack
+14107163 Kaguya Power Lv5 Daily  Pack
+14107164 Kaguya Power Lv6 Daily  Pack
+14107165 Ancient Stone
+14107166 Saint's Water
+14107167 [Saint's Road] Title Pack
+14110001 【Cool Hinata】Transform Card
+14110002 【Variable Sakura】Transform Card
+14110003 【Toad Sage】Transform Card
+14110004 【Uchiha Madara】Transform Card
+14110005 【Reanimated Madara】Transform Card
+14110006 【Uchiha Obito】Transform Card
+14110007 【Outer Path·Obito】Transform Card
+14110008 【Star Sakura】Transform Card
+14110009 【Warm Hinata】Transform Card
+14110010 【Angel Konan】Transform Card
+14110011 【Reanimation·Silver】Transform Card
+14110012 【Butterfly Choji】Transform Card
+14110013 【Yagura】Transform Card
+14110014 【10-Tailed Obito】Transform Card
+14110015 【Susanoo·Hiroto】Transform Card
+14110016 【Eight Gates Gai】Transform Card
+14110017 【Six Paths Madara】Transform Card
+14110018 【Six Paths Sage】Transform Card
+14110024 [Three-Eyed Madara] Transformation Card
+14110108 Lv.30 Fund Pack
+14110109 Lv.40 Fund Pack
+14110110 Lv.50 Fund Pack
+14110111 Lv.60 Fund Pack
+14110112 Lv.65 Fund Pack
+14110113 Lv.70 Fund Pack
+14110114 Lv.75 Fund Pack
+14110115 Lv.80 Fund Pack
+14110116 Rank-3 S. Weapon Chest
+14111001 Bloodline：Magnetism
+14111002 Bloodline：Ice Release
+14111003 Bloodline：Lava Release
+14111004 Bloodline：Explosion Release
+14111005 Bloodline：Scorch Release
+14111006 Bloodline：Crystal Release
+14111007 Bloodline：Storm Release
+14111008 Bloodline：Dark Release
+14111009 Bloodline：Attack of the Twin Demons
+14111010 Bloodline：Petrification Gauntlet
+14111011 Bloodline：White Snake
+14111012 Bloodline：Kurama Genjutsu
+14111013 Bloodline：Nature Transformation
+14111014 Bloodline：Parasitic Demon Technique
+14111015 Bloodline：Dragon Life Reincarnation
+14111016 Bloodline：Rinnegan
+14111017 Bloodline：Red Eye
+14111018 Bloodline：Sharingan
+14111019 Bloodline：Dead Bone Pulse
+14111020 Bloodline：Transparent Escape
+14111021 Bloodline：Wood Release
+14111022 Bloodline：Dust Release
+14111023 Bloodline：Boil Release
+14111024 Bloodline：Cloning Eye
+14111025 Bloodline：White Eye
+14111026 Bloodline：Magnet Release
+14111027 Bloodline：Blaze Release
+14111028 Bloodline：Jōgan
+14111029 Bloodline：Tenseigan
+14111101 Rank-1 Taboo Endurance
+14111102 Rank-2 Taboo Endurance
+14111103 Rank-3 Taboo Endurance
+14111104 Rank-4 Taboo Endurance
+14111105 Rank-5 Taboo Endurance
+14111106 Rank-6 Taboo Endurance
+14111107 Rank-7 Taboo Endurance
+14111108 Rank-1 Taboo Elegance
+14111109 Rank-2 Taboo Elegance
+14111110 Rank-3 Taboo Elegance
+14111111 Rank-4 Taboo Elegance
+14111112 Rank-5 Taboo Elegance
+14111113 Rank-6 Taboo Elegance
+14111114 Rank-7 Taboo Elegance
+14111115 Rank-1 Taboo Rage
+14111116 Rank-2 Taboo Rage
+14111117 Rank-3 Taboo Rage
+14111118 Rank-4 Taboo Rage
+14111119 Rank-5 Taboo Rage
+14111120 Rank-6 Taboo Rage
+14111121 Rank-7 Taboo Rage
+14111122 Rank-1 Taboo Will
+14111123 Rank-2 Taboo Will
+14111124 Rank-3 Taboo Will
+14111125 Rank-4 Taboo Will
+14111126 Rank-5 Taboo Will
+14111127 Rank-6 Taboo Will
+14111128 Rank-7 Taboo Will
+14111129 Rank-1 Taboo Barrier
+14111130 Rank-2 Taboo Barrier
+14111131 Rank-3 Taboo Barrier
+14111132 Rank-4 Taboo Barrier
+14111133 Rank-5 Taboo Barrier
+14111134 Rank-6 Taboo Barrier
+14111135 Rank-7 Taboo Barrier
+14111136 Rank-1 Taboo Shield
+14111137 Rank-2 Taboo Shield
+14111138 Rank-3 Taboo Shield
+14111139 Rank-4 Taboo Shield
+14111140 Rank-5 Taboo Shield
+14111141 Rank-6 Taboo Shield
+14111142 Rank-7 Taboo Shield
+14111143 Rank-1 Taboo Endurance Piece
+14111144 Rank-2 Taboo Endurance Piece
+14111145 Rank-3 Taboo Endurance Piece
+14111146 Rank-4 Taboo Endurance Piece
+14111147 Rank-5 Taboo Endurance Piece
+14111148 Rank-6 Taboo Endurance Piece
+14111149 Rank-7 Taboo Endurance Piece
+14111150 Rank-1 Taboo Elegance Piece
+14111151 Rank-2 Taboo Elegance Piece
+14111152 Rank-3 Taboo Elegance Piece
+14111153 Rank-4 Taboo Elegance Piece
+14111154 Rank-5 Taboo Elegance Piece
+14111155 Rank-6 Taboo Elegance Piece
+14111156 Rank-7 Taboo Elegance Piece
+14111157 Rank-1 Taboo Rage Piece
+14111158 Rank-2 Taboo Rage Piece
+14111159 Rank-3 Taboo Rage Piece
+14111160 Rank-4 Taboo Rage Piece
+14111161 Rank-5 Taboo Rage Piece
+14111162 Rank-6 Taboo Rage Piece
+14111163 Rank-7 Taboo Rage Piece
+14111164 Rank-1 Taboo Will Piece
+14111165 Rank-2 Taboo Will Piece
+14111166 Rank-3 Taboo Will Piece
+14111167 Rank-4 Taboo Will Piece
+14111168 Rank-5 Taboo Will Piece
+14111169 Rank-6 Taboo Will Piece
+14111170 Rank-7 Taboo Will Piece
+14111171 Rank-1 Taboo Barrier Piece
+14111172 Rank-2 Taboo Barrier Piece
+14111173 Rank-3 Taboo Barrier Piece
+14111174 Rank-4 Taboo Barrier Piece
+14111175 Rank-5 Taboo Barrier Piece
+14111176 Rank-6 Taboo Barrier Piece
+14111177 Rank-7 Taboo Barrier Piece
+14111178 Rank-1 Taboo Shield Piece
+14111179 Rank-2 Taboo Shield Piece
+14111180 Rank-3 Taboo Shield Piece
+14111181 Rank-4 Taboo Shield Piece
+14111182 Rank-5 Taboo Shield Piece
+14111183 Rank-6 Taboo Shield Piece
+14111184 Rank-7 Taboo Shield Piece
+14111185 Rank-1 Taboo Endurance Material 1
+14111186 Rank-1 Taboo Endurance Material 2
+14111187 Rank-2 Taboo Endurance Material 1
+14111188 Rank-2 Taboo Endurance Material 2
+14111189 Rank-3 Taboo Endurance Material 1
+14111190 Rank-3 Taboo Endurance Material 2
+14111191 Rank-4 Taboo Endurance Material 1
+14111192 Rank-4 Taboo Endurance Material 2
+14111193 Rank-5 Taboo Endurance Material 1
+14111194 Rank-5 Taboo Endurance Material 2
+14111195 Rank-6 Taboo Endurance Material 1
+14111196 Rank-6 Taboo Endurance Material 2
+14111197 Rank-7 Taboo Endurance Material 1
+14111198 Rank-7 Taboo Endurance Material 2
+14111199 Rank-1 Taboo Elegance Material 1
+14111200 Rank-1 Taboo Elegance Material 2
+14111201 Rank-2 Taboo Elegance Material 1
+14111202 Rank-2 Taboo Elegance Material 2
+14111203 Rank-3 Taboo Elegance Material 1
+14111204 Rank-3 Taboo Elegance Material 2
+14111205 Rank-4 Taboo Elegance Material 1
+14111206 Rank-4 Taboo Elegance Material 2
+14111207 Rank-5 Taboo Elegance Material 1
+14111208 Rank-5 Taboo Elegance Material 2
+14111209 Rank-6 Taboo Elegance Material 1
+14111210 Rank-6 Taboo Elegance Material 2
+14111211 Rank-7 Taboo Elegance Material 1
+14111212 Rank-7 Taboo Elegance Material 2
+14111213 Rank-1 Taboo Rage Material 1
+14111214 Rank-1 Taboo Rage Material 2
+14111215 Rank-2 Taboo Rage Material 1
+14111216 Rank-2 Taboo Rage Material 2
+14111217 Rank-3 Taboo Rage Material 1
+14111218 Rank-3 Taboo Rage Material 2
+14111219 Rank-4 Taboo Rage Material 1
+14111220 Rank-4 Taboo Rage Material 2
+14111221 Rank-5 Taboo Rage Material 1
+14111222 Rank-5 Taboo Rage Material 2
+14111223 Rank-6 Taboo Rage Material 1
+14111224 Rank-6 Taboo Rage Material 2
+14111225 Rank-7 Taboo Rage Material 1
+14111226 Rank-7 Taboo Rage Material 2
+14111227 Rank-1 Taboo Will Material 1
+14111228 Rank-1 Taboo Will Material 2
+14111229 Rank-2 Taboo Will Material 1
+14111230 Rank-2 Taboo Will Material 2
+14111231 Rank-3 Taboo Will Material 1
+14111232 Rank-3 Taboo Will Material 2
+14111233 Rank-4 Taboo Will Material 1
+14111234 Rank-4 Taboo Will Material 2
+14111235 Rank-5 Taboo Will Material 1
+14111236 Rank-5 Taboo Will Material 2
+14111237 Rank-6 Taboo Will Material 1
+14111238 Rank-6 Taboo Will Material 2
+14111239 Rank-7 Taboo Will Material 1
+14111240 Rank-7 Taboo Will Material 2
+14111241 Rank-1 Taboo Barrier Material 1
+14111242 Rank-1 Taboo Barrier Material 2
+14111243 Rank-2 Taboo Barrier Material 1
+14111244 Rank-2 Taboo Barrier Material 2
+14111245 Rank-3 Taboo Barrier Material 1
+14111246 Rank-3 Taboo Barrier Material 2
+14111247 Rank-4 Taboo Barrier Material 1
+14111248 Rank-4 Taboo Barrier Material 2
+14111249 Rank-5 Taboo Barrier Material 1
+14111250 Rank-5 Taboo Barrier Material 2
+14111251 Rank-6 Taboo Barrier Material 1
+14111252 Rank-6 Taboo Barrier Material 2
+14111253 Rank-7 Taboo Barrier Material 1
+14111254 Rank-7 Taboo Barrier Material 2
+14111255 Rank-1 Taboo Shield Material 1
+14111256 Rank-1 Taboo Shield Material 2
+14111257 Rank-2 Taboo Shield Material 1
+14111258 Rank-2 Taboo Shield Material 2
+14111259 Rank-3 Taboo Shield Material 1
+14111260 Rank-3 Taboo Shield Material 2
+14111261 Rank-4 Taboo Shield Material 1
+14111262 Rank-4 Taboo Shield Material 2
+14111263 Rank-5 Taboo Shield Material 1
+14111264 Rank-5 Taboo Shield Material 2
+14111265 Rank-6 Taboo Shield Material 1
+14111266 Rank-6 Taboo Shield Material 2
+14111267 Rank-7 Taboo Shield Material 1
+14111268 Rank-7 Taboo Shield Material 2
+14111269 Taboo Bell
+14111270 Deity
+14111271 振豪测试宝箱
+14111272 银币测试宝箱
+14111273 Vigor
+14111274 Madara's Rinnegan
+14111275 Hashirama's Scroll
+14111276 Awakened S.Ability
+14111277 Awakening True S.Ability
+14111278 Seal · Gedo Statue Exploration Card
+14111279 10-tails · Gedo Statue Exploration Card
+14111280 Shinju Exploration Card
+14111281 人柱力测试宝箱
+14111282 Lost Jade
+14111283 Kazekage's Soul
+14111284 Mizukage's Soul
+14111285 Tsuchikage's Soul
+14111286 Raikage's Soul
+14111287 Hokage's Soul
+14111288 4th Hokage's Soul
+14111289 1st Hokage's Soul
+14111290 Colorful Plume
+14111291 Soul Stone
+14111292 Adventure Ticket
+14111293 Jinchuriki Awakening General Material
+14111294 Evil Shard
+14111295 Gold Ninja Hotel Proof
+14111296 VIP1 Card
+14111297 VIP2 Card
+14111298 VIP3 Card
+14111299 Reanimation Stone
+14111300 Recruit Proof  (RI)
+14111301 Heaven-shaking Stone
+14111302 Ice Feather
+14111303 Awakened S.Ability Pack
+14111304 Rename Card 
+14111305 Clan Change Card
+14111306 Scale Trident
+14111307 Shape Flags
+14111308 Ninja Books
+14111309 Collections Fragments
+14111310 Jade Crystal
+14111311 Artifacts Core
+14111312 Sex Changing Card
+14111313 Roses
+14111314 Seek Truth Fragments
+14111315 Alien fragment
+14111316 Alien fragment pack
+14111317 【Six Paths Master】Title pack
+14111318 【Five Kages Peakedness】Title pack
+14111319 【Five Kages Peakedness】Title pack
+14111320 【Five Kages Peakedness】Title pack
+14111321 【Five Kages Peakedness】Title pack
+14111322 【Five Kages Peakedness】Title pack
+14111323 【Eye of the Red Lotus】Title pack
+14111324 【Takemikazuchi】Title pack
+14111325 Universal Awakening Card
+14111326 Illusion God Itachi awaken card
+14111327 Cursed Seal Sasuke Awakening Card
+14111328 咒印佐助忍魂
+14111329 Maricidevi
+14111330 Magic Mirror
+14111331 Nirvana lotus
+14111332 Susanoono Kiba
+14111333 Susanoono Sword
+14111334 Senju Kuoan
+14111335 Bloodline：S-Magnetism
+14111336 Nirvana lotus*2
+14111337 Ninja World War Point
+14111338 Six Paths Sage Awakening Card
+14111339 VIP6级卡
+14111340 Badge Enchant Talisman
+14111341 Badge Refine Talisman
+14111342 Badge Box (Low Rank)
+14111343 Vanguard Badge Box (High Rank)
+14111344 Box (High Rank)
+14111345 Support Badge Box (High Rank)
+14111346 Badge Box (High Rank)
+14111347 佩恩六道觉醒卡
+14111348 Dust
+14111349 Thunder Fang
+14111350 Earth Spirit
+14111351 Water Fairy
+14111352 Fireball
+14111353 Chakra Nature Reset Card
+14111354 Chakra Skill Point
+14111355 Susanoono Claw
+14111356 六道印石
+14111357 六道保护石
+14111358 VIP1 Card
+14111359 VIP2 Card
+14111360 VIP3 Card
+14111361 VIP4 Card
+14111362 VIP5 Card
+14111363 VIP6 Card
+14111364 VIP7 Card
+14111365 VIP8 Card
+14111366 VIP9 Card
+14111367 VIP10 Card
+14111368 Kongen Susanoono
+14111369 Ninja Soul
+14111370 GCL Rank 1
+14111371 GCL Rank 2
+14111372 GCL Rank 3
+14111373 GCL Rank 4-5
+14111374 GCL Rank 6-10
+14111375 GCL Rank 11-20
+14111376 GCL Rank 21-50
+14111377 GCL Rank 51-100
+14111378 GCL Participation Award
+14111379 GCL Rank 1
+14111380 GCL Rank 2
+14111381 GCL Rank 3
+14111382 GCL Rank 4-5
+14111383 GCL Rank 6-10
+14111384 GCL Rank 11-20
+14111385 GCL Rank 21-50
+14111386 GCL Rank 51-100
+14111387 GCL Participation Award
+14111388 Warlord shards
+14111389 Warlord myth
+14111390 Chakra Nature Pack
+14111391 Indra
+14111392 Ashura
+14111393 Alien Awakening fragment
+14111394 Universal clan badge
+14111395 Senju clan badge
+14111396 Uchiha clan badge
+14111397 Uzumaki clan badge
+14111398 Zero maiso clan badge
+14111399 Sora no chin clan badge
+14111400 Nando clan badge
+14111401 Hokuto clan badge
+14111402 San clan badge
+14111403 Hisui clan badge
+14111404 Clan badge stone
+14111405 Arena Token
+14111406 Christmas Halo Proof
+14111407 Sakura Halo Proof
+14111408 Global Arena Halo Proof
+14111409 L
+14111410 O
+14111411 V
+14111412 E
+14111413 Valentine Pack
+14111414 Yasaka Itachi Awakening Card
+14111415 Chocolate
+14111416 Roses
+14111417 Valentine Shards
+14111418 测试礼包
+14111419 Equipment Shards
+14111420 Accessories Shards
+14111421 尾兽积分
+14111422 Yamata no Orochi
+14111423 Kaguya Power Lv7 Daily  Pack
+14111424 Talent Enchant Stone
+14111425 Talent Refine Stone:
+14111426 Susanoo Arrow
+14111427 Karura's Guard
+14111428 Badge Shards
+14111429 Jugo Sage Awakening Card
+14111430 Cursed Tayuya Awakening Card
+14111431 Hamura clan badge
+14111432 Kurama[Susanoo]
+14111433 Fly Dragon
+14111434 Eight Diagrams Halo Proof
+14111435 Haruno clan badge
+14111436 Nara clan badge
+14111437 Sakumo clan badge
+14111438 Hyūga clan badge
+14111439 Crescent Moon clan badge
+14111440 Yamanaka clan badge
+14111441 Aburame clan badge
+14111442 Sarutobi clan badge
+14111443 Jiraiya's Guard
+14111444 Kaguya's Guard
+14111445 Nightmare Halo Proof
+14111446 Clan badge stone*100
+14111447 Indra Arrow
+14111448 Naraku Contract Halo Proof
+14111449 Pumpkin clan badge
+14111450 Kaguya wings shards
+14111451 Dreaming Halo Proof
+14111452 Izanami Halo Proof
+14111453 Thunder
+14111454 Diablo
+14111455 巧克力TEST
+14111456 Uk Dragon
+14111457 Magikey Fiend
+14111458 朱雀舞天卷轴
+14111459 VIP Shards
+14111460 1转30经验丹
+14111461 1转40经验丹
+14111462 1转50经验丹
+14111463 2转30经验丹
+14111464 2转40经验丹
+14111465 2转50经验丹
+14111466 3转20经验丹
+14111467 3转30经验丹
+14111468 3转35经验丹
+14111469 3转40经验丹
+14111470 Divine EXP Scroll
+14111471 Common recruit scroll
+14111472 Six path recurit scroll
+14111473 中军招募卷轴
+14111474 后军招募卷轴
+14111475 Otsutsuki clan badge
+14111476 Impure World clan badge
+14111477 Sage clan badge
+14111478 Six Path clan badge
+14111479 Cursed Mark clan badge
+14111480 Susanoo clan badge
+14111481 Akatsuki clan badge
+14111482 Lotus clan badge
+14111483 玄武七截卷轴
+14111484 奇煌卷轴
+14111485 五行火卷轴
+14111486 五行风卷轴
+14111487 五行土卷轴
+14111488 五行水卷轴
+14111489 五行雷卷轴
+14111490 Activation card A
+14111491 Activation card S
+14111492 Activation card SR
+14111493 (Chino) Talent Card
+14111494 (A-B Combo) Talent Card
+14111495 (Might Guy) Talent Card
+14111496 (Sakura Uchiha) Talent Card
+14111497 (Hyuuga Hanabi ) Talent Card
+14111498 (Chiriku) Talent Card
+14111499 (Momoshiki (Awaken)) Talent Card
+14111500 Mysterious Soul Stone Bag
+14111501 Daily Soul Stone Pack
+14111502 VIP Daily Soul Stone Pack
+14111503 (Konoha's Shadow Sasuke) Talent Card
+14111504 (Cursed Kimimaro) Talent Card
+14111505 (Alien Fuguki) Talent Card
+14111506 (Uchiha Naori) Talent Card
+14111507 (The Rabbit Goddess) Talent Card
+14111508 (Naruto & Hinata) Talent Card
+14111509 (Reanimated · Hashirama) Talent Card
+14111510 (The Seventh Hokage) Talent Card
+14111511 (Alien Mifune) Talent Card
+14111512 (Susanoo · Madara) Talent Card
+14111513 (Neji & Hinata) Talent Card
+14111514 (Tsunade) Talent Card
+14111515 Super Wings
+14111516 Phoenix Roar
+14111517 Ice Realm
+14111518 Flower Pupil
+14111519 Golden Binding
+14111520 Spring Dream
+14111521 Mirror Rotation
+14111522 Mandala's Art
+14111523 Naraku's Art
+14112001 Hermit Spar
+14112002 Oracle Spar
+14112003 Hermit Guarding Stone
+14112004 Oracle Guarding Stone
+14112005 Jade of Pneuma
+14119001 Contract Fragment
+14120010 Akatsuki's Set Case
+14120011 Akatsuki's Jewellery Case
+14120012 White Strength Sakura
+14120013 Ghost Jewellery
+14120014 Death God Summon Scroll
+14120015 Three Eyed Madara
+14120028 Big Coupon pack
+14120029 Christmas gold pack
+14120030 Six Paths Madara
+14120031 Ghost Accessory Chest
+14120032 Accumulative Open 50 Times Magic Box
+14120033 Accumulative Open 100 Times Magic Box
+14120034 Accumulative Open 200 Times Magic Box
+14120035 Accumulative Open 300 Times Magic Box
+14120036 Accumulative Open 400 Times Magic Box
+14120037 Accumulative Open 500 Times Magic Box
+14120038 Undead Firebird Summon Scroll
+14120047 Christmas Celebration Pack
+14120048 Christmas Sharing Pack
+14120049 Christmas Luxury Pack
+14120050 Little Silver Pack
+14120051 Little Gold Pack
+14120052 Little Coupon Pack
+14120053 Tsunade's Dice 10 Wins Pack
+14120054 Tsunade's Dice 20 Wins Pack
+14120055 Tsunade's Dice 30 Wins Pack
+14120056 Tsunade's Dice 40 Wins Pack
+14120057 Tsunade's Dice 50 Wins Pack
+14120058 Tsunade's Dice 60 Wins Pack
+14120059 Tsunade's Dice 70 Wins Pack
+14120060 Tsunade's Dice 80 Wins Pack
+14120061 Tsunade's Dice 90 Wins Pack
+14120062 Lucky Gift Pack
+14120063 Fortune Pack
+14120064 Genin Pack
+14120065 Chunin Pack
+14120066 Jounin Pack
+14120067 Kage's Pack
+14120068 Angel Weapon Chest
+14120069 Christmas Silver Box
+14120070 Christmas Coupon Box
+14120071 Christmas Gold Box
+14120072 Reindeer Jingle Summon Scroll
+14120073 Jinchuriki Pack
+14120074 Reincarnation Pack
+14120075 EXP Pack
+14120076 仙灵大礼包
+14120077 禁术宝箱
+14120078 圣诞宝藏箱
+14120079 【Xmas Angel】Title Pack
+14120080 【Snow Blessing】Title Pack
+14120081 【Snow Elf】Title Pack
+14120085 Angel's Accessory Box
+14120086 Kushina Uzumaki
+14120087 Treasure Maps
+14120088 Lucky Star
+14120089 Ticket
+14120090 Bouncy Ball
+14120100 Fire Box
+14120101 Shadow Box
+14120102 Fortune Pack
+14120103 Genin Pack
+14120104 Chunin Pack
+14120105 Jounin Pack
+14120106 Kage's Pack
+14120107 Lucky Gift Pack
+14120108 Zero Box
+14120109 Azure Box
+14120110 White Box
+14120111 Vermilion Box
+14120112 Boar Box
+14120113 Void Box
+14120114 South Box
+14120115 North Box
+14120116 Three Box
+14120117 Sphere Box
+14120118 Akatsuki Box
+14120119 Kage Box
+14120120 Sage Box
+14120121 Six Paths Box
+14120122 Accumulative Open 50 Times Magic Box
+14120123 Accumulative Open 100 Times Magic Box
+14120124 Accumulative Open 200 Times Magic Box
+14120125 Accumulative Open 300 Times Magic Box
+14120126 Accumulative Open 400 Times Magic Box
+14120127 Accumulative Open 500 Times Magic Box
+14120128 New Year Coupon Pack
+14120129 Tsunade's Dice 10 Wins Pack
+14120130 Tsunade's Dice 20 Wins Pack
+14120131 Tsunade's Dice 30 Wins Pack
+14120132 Tsunade's Dice 40 Wins Pack
+14120133 Tsunade's Dice 50 Wins Pack
+14120134 Tsunade's Dice 60 Wins Pack
+14120135 Tsunade's Dice 70 Wins Pack
+14120136 Tsunade's Dice 80 Wins Pack
+14120137 Tsunade's Dice 90 Wins Pack
+14120138 Tsunade's Dice 100 Wins Pack
+14120139 400 Gold Purple Gift Pack
+14120140 400 Gold Golden Gift Pack
+14120141 400 Gold Red Gift Pack
+14120142 1600 Gold Purple Gift Pack
+14120143 1600 Gold Golden Gift Pack
+14120144 1600 Gold Red Gift Pack
+14120145 4000 Gold Purple Gift Pack
+14120146 4000 Gold Golden Gift Pack
+14120147 4000 Gold Red Gift Pack
+14120148 8000 Gold Purple Gift Pack
+14120149 8000 Gold Golden Gift Pack
+14120150 8000 Gold Red Gift Pack
+14120151 16000 Gold Purple Gift Pack
+14120152 16000 Gold Golden Gift Pack
+14120153 16000 Gold Red Gift Pack
+14120154 28000 Gold Purple Gift Pack
+14120155 28000 Gold Golden Gift Pack
+14120156 28000 Gold Red Gift Pack
+14120157 44000 Gold Purple Gift Pack
+14120158 44000 Gold Golden Gift Pack
+14120159 44000 Gold Red Gift Pack
+14120160 64000 Gold Purple Gift Pack
+14120161 64000 Gold Golden Gift Pack
+14120162 64000 Gold Red Gift Pack
+14120163 Genin Pack
+14120164 Chunin Pack
+14120165 Jounin Pack
+14120166 Kage's Pack
+14120167 Accumulative Open 50 Times Magic Box
+14120168 Accumulative Open 100 Times Magic Box
+14120169 Accumulative Open 200 Times Magic Box
+14120170 Accumulative Open 300 Times Magic Box
+14120171 Accumulative Open 400 Times Magic Box
+14120172 Accumulative Open 500 Times Magic Box
+14120173 Genin Pack
+14120174 Chunin Pack
+14120175 Jounin Pack
+14120176 Kage's Pack
+14120179 Yasaka Itachi
+14120181 Vigor Pack
+14120182 Otsutsuki Momoshiki
+14120189 Luna Jewellery
+14120190 Rename Card
+14120191 Return of the King Pack
+14120192 Lord of the Future Pack
+14120196 Baby Naruto
+14120197 Ryujin Treasure
+14120198 Baby Naruto
+14120200 Ice Treasure
+14120201 Ice Weapon  Box
+14120202 Ice Armor Box
+14120203 Icefield Bear Summoning Scroll
+14120204 Ice Lord Title Pack
+14120205 Storm Warlord Title Pack
+14120206 Hurricane Fighter Title Pack
+14120209 Flame Jewellery
+14120211 Mr.Wang
+14120212 Pain & Konan
+14120213 Flame Treasure
+14120214 Mael
+14120215 Tengu
+14120216 Virgo
+14120217 The Predator
+14120218 Hidan&Kakuzu
+14120219 Xaya
+14120220 Koudo
+14120221 Sasuke & Sakura
+14120222 Valkyrie
+14120223 Lando
+14120224 Rank-1 Spring Festival Ranking Pack
+14120225 Rank-2 Spring Festival Ranking Pack
+14120226 Rank-3 Spring Festival Ranking Pack
+14120227 Rank-4 Spring Festival Ranking Pack
+14120228 Rank-5 Spring Festival Ranking Pack
+14120229 Rank-6 Spring Festival Ranking Pack
+14120233 Netherwind Treasure
+14120234 Final Sasuke
+14120236 Tsunade & Terumi Mei
+14120237 Amaterasu
+14120238 Frostfire Treasure
+14120239 The Seventh Hokage
+14120241 Netherwind Jewellery
+14120243 Moon Rabbit
+14120244 Nine-tailed Cat
+14120245 Shisui & Itachi
+14120246 Stormrage Treasure
+14120247 Cheongsam Tenten
+14120248 Mermaid
+14120249 Hallowed Jewellery
+14120250 Sakura Uchiha
+14120251 Dryad
+14120252 Deathbone Treasure
+14120253 Minato & Naruto
+14120254 Hinata
+14120255 Desolation Jewellery
+14120256 Neji & Hinata
+14120257 Butterfly
+14120258 Cheetah
+14120259 Corruptor Treasure
+14120260 Haku & Zabuza
+14120261 Meng Po
+14120262 Kakashi & Obito
+14120263 Deathbone Jewellery
+14120264 Gai & Rock Lee
+14120265 Deathbone Treasure
+14120266 Santa Claus
+14120267 Darkmantle Jewellery
+14120268 Hagoromo&Hamura
+14120269 Nagato & Itachi
+14120270 Darkmantle Treasure
+14120271 Uzumaki Himawari
+14120272 Skyshatter Jewellery
+14120273 Hyuuga Hanabi
+14120274 Ōtsutsuki Puppet
+14120275 Skyshatter Treasure
+14120276 Samehada Kisame
+14120277 Nue
+14120278 Devout Jewellery
+14120279 Little Witch
+14120280 Ōtsutsuki Kinshiki
+14120281 Hallowed Treasure
+14120282 Chino
+14120283 Nezha
+14120284 Ticket
+14120285 Zabivaka
+14120286 Gold Pack
+14120287 Tsunade
+14120288 Oblivion Jewellery
+14120289 Uchiha Obito
+14120290 Devout Treasure
+14120291 【RUSSIA 2018】
+14120292 【RUSSIA 2018】
+14120293 Hiruko
+14120294 VIP Weapon Privilege Card
+14120296 Chiriku
+14120297 Corruptor Jewellery
+14120298 Amaterasu (White Wolf)
+14120300 Luxury VIP Benefit Card
+14120302 A-B Combo
+14120303 Sakura
+14120304 Momoshiki (Awaken)
+14120305 Miyamoto Musashi
+14120306 javvin 69
+14120307 Halloweenie
+14120308 Pet Collections Activation Privilege Card
+14120309 Pet Collections Activation Privilege Card
+14120310 Heroism Jewellery
+14120313 蛤蟆老大
+14120314 万蛇
+14120315 Might Guy
+14120316 Chun-Li
+14120317 Otsutsuki Treasure
+14120320 貘
+14120321 蛞蝓
+14120322 山椒鱼
+14120323 Xmas - Haku
+14120324 Otsutsuki Jewellery
+14120325 Kami Girl
+14120327 Heroism Treasure
+14120328 S. Weapon Box
+14120329 Tsunade Point 1
+14120330 Tsunade Point 2
+14120331 Tsunade Pack 200
+14120332 Tsunade Pack 2000
+14120333 蜘蛛
+14120334 佐助鹰
+14120335 分裂犬
+14120336 蜃
+14120337 Indora
+14120338 Bloodfang Treasure
+14120339 Asuka
+14120341 Ashura
+14120342 Shuten-dōji
+14120343 Bloodfang Jewellery
+14120344 Konoha's Shadow Sasuke
+14120345 Indora Treasure
+14120346 Timo
+14120347 Uchiha Naori
+14120348 Pikachu
+14120349 Indora Jewellery
+14120350 【Lord of Top-up】An exclusive title for Top-up Ranking（180 Days）
+14120351 Triple-headed Snake
+14120352 【OMEGA WHALE】
+14120353 【Pervy Sage】
+14120354 Cursed Kimimaro
+14120355 Gentle Haku
+14120356 Ashura Treasure
+14120357 Temari
+14120358 Katsuyu
+14120359 Kaguya Jewellery
+14120360 Phoenix
+14120361 【Raian】
+14120362 异界重吾
+14120363 异界雷影
+14120364 异界河豚鬼
+14120365 异界三船
+14120366 异界佐助
+14120367 异界鸣人
+14120368 异界静音
+14120369 异界照美冥
+14120370 异界带土
+14120371 异界斑
+14120380 Anbu Ninja
+14120381 Reanimated Tobirama
+14120382 Senju Treasure
+14120383 Security Pack
+14120384 Yamanaka Ino
+14120385 Ashura Jewellery
+14120386 1-Tail Shukaku
+14120387 2-Tails Matatabi
+14120389 Saint Treasure
+14120390 Orochimaru&Kabuto
+14120394 Mui
+14120395 Senju Jewellery
+14120396 No.1 Pack 1
+14120397 No.1 Pack 2
+14120398 No.2-3 Pack 1
+14120399 No.2-3 Pack 2
+14120400 No.4-10 Pack 1
+14120401 No.4-10 Pack 2
+14120402 No.11-50 Pack 1
+14120403 No.11-50 Pack 2
+14120404 No.50-100 Pack 1
+14120405 No.50-100 Pack 2
+14120406 No.101-500 Pack 1
+14120407 No.101-500 Pack 2
+14120408 No.500 + Pack 1
+14120409 No.500 + Pack 2
+14120410 自在极意功悟空
+14120411 Ultra Instinct Goku
+14120412 自在极意功悟空（俄文版）
+14120413 3-Tails Isobu
+14120414 10-Tails Fruit Pack
+14120417 Hiruko
+14120418 Key
+14120419 4-Tails Son Gokuu
+14120420 Uchiha Treasure
+14120424 Uchiha Sasuke
+14120425 阿修罗武器箱子（俄罗斯）
+14120426 Saint Weapon Box
+14120427 Hyuga Princess
+14120428 Uchiha Jewellery
+14120429 5-Tails Kokuou
+14120431 Hyuuga Treasure
+14120432 6-Tails Saiken
+14120433 Guren
+14120434 Naraka Path Pain
+14120435 7-Tails Choumei
+14120436 Hyuuga Jewellery
+14120439 1-Tail Gaara
+14120440 Uzumaki Treasure
+14120441 8-Tails Gyuuki
+14120442 April Fool Pack
+14120463 Uzumaki Jewellery
+14120464 9-Tails Kurama
+14120466 Cursed Tayuya
+14120467 4-Tail Roshi
+14120468 Sarutobi Treasure
+14120469 10-Tails Shinju
+14120470 Sarutobi Raid Jewellery
+14120471 Sarutobi Defend Jewellery
+14120472 Shima
+14120473 Sage Dragon Kabuto
+14120474 Hinata
+14120475 Uzumaki Naruto
+14120476 Cursed Treasure
+14120477 Fukasaku
+14120478 Jugo Sage
+14120479 三头蛇
+14120480 Gamahiro
+14120481 Cursed Jewellery
+14120482 Miko Shion
+14120483 【The God of Fate】
+14120484 【Augury Master】
+14120485 【Augury Apprentice】
+14120491 Kirikakure Treasure
+14120492 Great Toad Sage
+14120493 Nadeshiko Shizuka
+14120494 Kirikakure Jewellery
+14120495 Gourd Toad
+14120497 Mitsuki
+14120498 Boa Hancock
+14120499 【One Piece】
+14120500 【Can you see】
+14120501 【JamRock】
+14120502 【Snow】
+14120503 Energy Spar
+14120504 Scary Pumpkin
+14120505 Kimono Kurenai
+14120506 Salome
+14120507 Kumogakure Treasure
+14120508 Xmas Six Paths Sage
+14120509 Kumogakure Jewellery[Gen]
+14120510 Snowman
+14120511 Armored Jiraiya
+14120512 Kumogakure Jewellery
+14120513 Iruka
+14120514 Kiba
+14120515 Longen Treasure
+14120516 Kamatari
+14120517 7th Hokage & Shadow
+14120518 Warlord Accessories Pack
+14120519 Naruko
+14120520 Longen Jewellery
+14120521 Kuromaru
+14120524 Ghost Dog
+14120525 Amegakure Treasure
+14120526 Uchiha Mikoto
+14120527 Sakura Jewellery
+14120528 Uchiha Tom
+14120529 Yugao Uzuki
+14120530 【Life is a Practice】Title Pack
+14120531 Naruto Jerry
+14120532 Gekkou Hayate
+14120533 Sakura Treasure
+14120534 Jerry & Spike
+14120535 VIP Bespoke Title Card（Top 1）
+14120536 VIP Bespoke Title Card（Top 2-3）
+14120537 Sakon & Ukon
+14120538 Reanimated Hidan
+14120539 Hidan Cousin
+14120540 【Self-made Man】Title Pack
+14120541 【Extravagant】Title Pack
+14120542 【Wallow in Gold】Title Pack
+14120543 【High Roller】Title Pack
+14120544 【Rich as Croesus】Title Pack
+14120545 【Heaven's Devourer】
+14120546 【Yin-Yang】
+14120547 【Unlimited Void】
+14120549 Amegakure Jewellery
+14120553 Susanoo·Tom·Itachi
+14120554 Jiongu Kakuzu
+14120555 松本乱菊
+14120556 Oct Collections
+14120557 Sunagakure Treasure
+14120558 General lucky bag
+14120559 Advanced lucky bag
+14120560 Nov Collections
+14120561 Dec Collections
+14120562 May Collections
+14120563 June Collections
+14120564 July Collections
+14120565 August Collections
+14120566 Sept Collections
+14120570 Hurricane Tom
+14120572 PikaRama
+14120573 Sunagakure Jewellery
+14120574 红莲冬狮郎
+14120575 Hotaru
+14120576 Daiguren Tōshirō
+14120577 Reanimated Treasure
+14120578 NejiChu
+14120579 Urashiki Ōtsutsuki
+14120580 Reanimated Jewellery
+14120581 PiKaTen
+14120582 Christmas Mito
+14120583 Amenonuhoko Treasure
+14120584 TobiSquirt
+14120585 Itachimander
+14120586 GarraShrew
+14120587 9 Tails Chungus
+14120588 1 Tails Chungus
+14120589 PikaDara
+14120590 Amenonuhoko Jewellery
+14120591 Pain·Animal Path
+14120592 Elemental Box
+14120593 Pain Treasure
+14120594 Kurotsuchi
+14120595 Hyakki Sasori
+14120596 Pain Jewellery
+14120597 Guard Treasure
+14120598 Warlord Sakura
+14120599 Discord Pack
+14120600 Guard Jewellery
+14120601 JerryRama
+14120602 Guren Treasure
+14120603 Utakata
+14120604 Sage Tomraiya
+14120605 Guren Jewellery
+14120606 Clan Badge Pack
+14120607 Halo Pack
+14120608 Sixth Mizukage
+14120609 Tomchi
+14120610 Summer Terumi Mei
+14120611 Sunfire Treasure
+14120612 Susanoo Jerry
+14120613 Sunfire Jewellery
+14120614 Reanimated Hanzou
+14120615 Rebels’Attack Pack
+14120616 Naruto【Baryon】
+14120617 Hades
+14120618 Blue Eyes White Dragon
+14120620 Yaksa Treasure
+14120621 Christmas Gold Box
+14120622 Christmas Coupon Box
+14120623 La'eeb
+14120624 Yaksa Jewellery
+14120625 Snow Sakura
+14120626 【Supreme Wealth】Title Pack
+14120627 Blue Eyes Ultimate Dragon
+14120628 Kawaki
+14120629 Moonlit Treasure
+14120630 Blue-Eyes Chaos MAX Dragon
+14120631 First Hokage
+14120632 Moonlit Jewellery
+14120633 Clan Badge Pack（NEW）
+14120634 Halo Pack（NEW）
+14120635 Dragonmaid Sheou
+14120636 Stardust Dragon
+14120637 Branded Dragon
+14120638 Starry Dragon
+14120639 Gear Reactor Dragon
+14120640 Conductor Tyranno
+14120641 Shooting Quasar Dragon
+14120642 Doraemon
+14120643 Mickey
+14120644 Bugs Bunny
+14120645 Uzumaki Boruto
+14120646 Neji【Yin Yang】
+14120647 Uzumaki Menma
+14120648 Cyber Naruto
+14120649 Summer Pain
+14120650 Summer Kushina
+14120651 9-Tails Minato
+14120652 5-Tails Han
+14120653 Kamado Nezuko
+14120654 Vylon Treasure
+14120655 Infernity Treasure
+14120656 Butterfly Treasure
+14120657 Arcane Treasure
+14120658 Mekansm Treasure
+14120659 Flamvell Treasure
+14120660 Vylon Jewellery
+14120661 Infernity Jewellery
+14120662 Butterfly Jewellery
+14120663 Arcane Jewellery
+14120664 Mekansm Jewellery
+14120665 Flamvell Jewellery
+14120666 Clan Badge Pack（2023）
+14120667 Halo & Clan Badge
+14120668 2000线下礼包
+14120669 4000线下礼包
+14120670 8000线下礼包
+14120671 12000线下礼包
+14120672 20000线下礼包
+14120673 42000线下礼包
+14120674 Cursed Seal Sasuke
+14120675 Shisui the Teleporter
+14120676 Six Paths Madara
+14120677 Asura · Naruto
+14120678 White Strength Sakura
+14120679 Indra·Sasuke
+14120680 Reanimated Itachi
+14120681 Reanimated Nagato
+14120682 Ohtsutsuki Kaguya
+14120683 Otsutsuki Toneri
+14120684 Otsutsuki Hamura
+14120685 Rashomon·Orochimaru
+14120686 Hinata Uzumaki
+14120687 The Rabbit Goddess
+14120688 Shin Uchiha
+14120689 Sand Burial·Gaara
+14120690 Reanimated Hiruzen
+14120691 Naruto & Hinata
+14120692 Sasuke & Itachi
+14120693 Kakashi & Gai
+14120694 Madara & Obito
+14120695 Deidara & Sasori
+14120696 Minato & Kushina
+14120697 Naruto & Sasuke
+14120698 Star Sakura
+14120699 Warm Hinata
+14120700 Angel Konan
+14120701 Bloodline Pack
+14120702 Jan Collections
+14120703 Feb Collections
+14120704 Mar Collections
+14120705 Apr Collections
+14120706 功夫熊猫
+14120707 Darkmantle Equipment Pack
+14120708 Skyshatter Equipment Pack
+14120709 Devout Equipment Pack
+14120710 Heroism Equipment Pack
+14120711 Otsutsuki Equipment Pack
+14120712 Indora Equipment Pack
+14120713 Deathbone Equipment Pack
+14120714 Hallowed Equipment Pack
+14120715 Ashura Equipment Pack
+14120716 Bloodfang Equipment Pack
+14120717 Crimson Equipment Pack
+14120718 Senju Equipment Pack
+14120719 Saint Equipment Pack
+14120720 Uchiha Equipment Pack
+14120721 Hyuuga Equipment Pack
+14120722 Uzumaki Equipment Pack
+14120723 Sarutobi Equipment Pack
+14120724 Cursed Equipment Pack
+14120725 Kirikakure Equipment Pack
+14120726 Kumogakure Equipment Pack
+14120727 Longen Equipment Pack
+14120728 Amegakure Equipment Pack
+14120729 Sakura Equipment Pack
+14120730 Sunagakure Equipment Pack
+14120731 Reanimated Equipment Pack
+14120732 Amenonuhoko Equipment Pack
+14120733 Crimson Accessories Pack
+14120734 Deathbone Accessories Pack
+14120735 Darkmantle Accessories Pack
+14120736 Skyshatter Accessories Pack
+14120737 Devout Accessories Pack
+14120738 Oblivion Accessories Pack
+14120739 Heroism Accessories Pack
+14120740 Otsutsuki Accessories Pack
+14120741 Bloodfang Accessories Pack
+14120742 Indora Accessories Pack
+14120743 Kaguya Accessories Pack
+14120744 Ashura Accessories Pack
+14120745 Senju Accessories Pack
+14120746 Uchiha Accessories Pack
+14120747 Hyuuga Accessories Pack
+14120748 Uzumaki Accessories Pack
+14120749 Sarutobi Raid Accessories Pack
+14120750 Sarutobi Defend Accessories Pack
+14120751 Cursed Accessories Pack
+14120752 Kirikakure Accessories Pack
+14120753 Kumogakure[Gen] Accessories Pack
+14120754 Kumogakure[Tai] Accessories Pack
+14120755 Longen Accessories Pack
+14120756 Amegakure Accessories Pack
+14120757 Sakura Accessories Pack
+14120758 Sunagakure Accessories Pack
+14120759 Reanimated Accessories Pack
+14120760 Amenonuhoko Accessories Pack
+14120767 Material Pack
+14120768 S Weapon Pack
+14120769 Jade Pack
+14120770 VIP4 Pack
+14120771 VIP5 Pack
+14120772 VIP5 Exchange Proof
+14120773 VIP6 Exchange Proof
+14120774 Ability Pack
+14120775 Deity Pack
+14120776 Potency Pack
+14120777 Soul Stone Pack
+14120778 Clan Badge Pack
+14120779 Artifacts Pack
+14120780 Jade Pack
+14120781 Talent Pack
+14120782 Badge Pack
+14120783 Update Stone Pack
+14120784 Shards Pack
+14120785 Wing Pack
+14120786 巅峰悟饭超II
+14120787 红神特兰克斯
+14120788 复活の扎马斯
+14120789 兰琪
+14120790 贝吉特超I
+14120791 血战·赫丽贝尔
+14120792 血战·妮莉艾露
+14120793 血战·乌尔奇奥拉
+14120794 血战·葛力姆乔
+14120795 血战·涅茧利
+14120796 美少女希曼
+14120797 夜叉饰品自选包
+14120798 秘法饰品自选包
+14120799 Arcane Equipment Pack
+14120800 Orochimaru【Boruto】
+14120801 Hashirama&Madara
+14120802 Uchiha Hikari
+14120803 Jigen
+14120804 Otsutsuki Isshiki
+14120805 Sakura Warrior
+14120806 Indra&Asura
+14120807 Human Path Pain
+14120808 Hinata·THE LAST
+14120809 Reanimated Deidara
+14120810 Sasuke&Itachi【Susanoo】
+14120811 10月
+14120812 11月
+14120813 12月
+14120814 1月
+14120815 2月
+14120816 3月
+14120817 4月
+14120818 Ninneko
+14120819 Tonton
+14120820 Toriyama Akira
+14120821 Zetsu
+14120822 Fubuki Kakuyoku
+14120823 Hyuga Hizashi
+14120824 Akimichi Choza
+14120825 Inuzuka Hana
+14120826 Yakushi Nonou
+14120827 新宠物
+14120828 新宠物
+14120829 新宠物
+14120830 新宠物
+14120831 新宠物
+14120832 新宠物
+14120833 新宠物
+14120834 新宠物
+14120835 新宠物
+14120836 新宠物
+14120837 新宠物
+14120838 Radiance Treasure
+14120839 Black Feather Treasure
+14120840 Branded Treasure
+14120841 Defiance Treasure
+14120842 Tarrasque Treasure
+14120843 Baryon Treasure
+14120844 Radiance Jewellery
+14120845 Black Feather Jewellery
+14120846 Branded Jewellery
+14120847 Defiance Jewellery
+14120848 Tarrasque Jewellery
+14120849 Baryon Jewellery
+14120850 Clan Badge Pack（2024）
+14120851 Pain Equipment Pack
+14120852 Guard Equipment Pack
+14120853 Guren Equipment Pack
+14120854 Sunfire Equipment Pack
+14120855 Pain Accessories Pack
+14120856 Guard Accessories Pack
+14120857 Guren Accessories Pack
+14120858 Sunfire Accessories Pack
+14120859 Yaksa Equipment Pack
+14120860 Moonlit Equipment Pack
+14120861 Yaksa Accessories Pack
+14120862 Moonlit Accessories Pack
+14120863 Maternal Love
+14120864 Kyoka Suigetsu
+14120865 瑪格麗塔
+14120866 Poland
+14120867 Toji the slayer
+14120868 Artifacts Pack
+14120869 Badge Pack
+14120870 Update Stone Pack
+14120871 Talent Pack
+14120872 Sage Pack
+14120873 Broadsword·Samehada
+14120874 Explosive Knife·Shibuki
+14120875 Dull Knife·Kabutowari
+14120876 Thunder Knife Fang
+14120877 Twinsword·Soto
+14120878 SSR Talent Optional Pack
+14120879 SR Talent Random Pack
+14120880 SSR Talent Random Pack
+14120881 Six-Path Optional Pack
+14120882 Vangard Badge Optional Pack
+14120883 Assaulter Badge Optional Pack
+14120884 Support Badge Optional Pack
+14120885 Badge Optional Box [Advanced]
+14120886 Valentine Optional Pack
+14120887 White Strength Sakura
+14120888 Cursed Seal Sasuke
+14120889 Star Sakura
+14120890 Warm Hinata
+14120891 Angel Konan
+14120892 Shisui the Teleporter
+14120893 Six Paths Madara
+14120894 Reanimated Itachi
+14120895 Susanoo Kakashi
+14120896 Reanimated Nagato
+14120897 Ohtsutsuki Kaguya
+14120898 Kushina Uzumaki
+14120899 Indra·Sasuke
+14120900 Asura · Naruto
+14120901 Otsutsuki Toneri
+14120902 Otsutsuki Hamura
+14120903 Rashomon·Orochimaru
+14120904 Hinata Uzumaki
+14120905 The Rabbit Goddess
+14120906 Shin Uchiha
+14120907 Sand Burial·Gaara
+14120908 Yasaka Itachi
+14120909 Reanimated Hiruzen
+14120910 Naruto & Hinata
+14120911 Sasuke & Itachi
+14120912 Kakashi & Gai
+14120913 Pain & Konan
+14120914 Madara & Obito
+14120915 Deidara & Sasori
+14120916 Minato & Kushina
+14120917 Naruto & Sasuke
+14120918 Xmas - Haku
+14120919 S Weapon Box Ⅴ
+14120920 S Weapon Box Ⅵ
+14120921 S Weapon Box Ⅶ
+14120922 S Weapon Box VIII
+14120923 S Weapon Box IX
+14120924 S Weapon Box X
+14120925 Akatsuki Equipment Pack
+14120926 Akatsuki Accessories Pack
+14120927 Sage Equipment Pack
+14120928 Sage Accessories Pack
+14120929 Wind Box
+14120930 Water Box
+14120931 Thunder Box
+14120932 Sand Box
+14120933 Fire Box
+14120934 Shadow Box
+14125034 Accumulative Open 50 Times Magic Box
+14125035 Accumulative Open 100 Times Magic Box
+14125036 Accumulative Open 200 Times Magic Box
+14125037 Accumulative Open 300 Times Magic Box
+14125038 Accumulative Open 400 Times Magic Box
+14125039 Accumulative Open 500 Times Magic Box
+14125040 Candy
+14125041 Skeleton Ring
+14125042 Cross
+14125056 Common Magic Potion Pack
+14125057 Good Magic Potion Pack
+14125058 Fine Magic Potion Pack
+14125059 Luxury Magic Potion Pack
+14125060 Fancy Magic Potion Pack
+14125061 Crystal Ball Pack
+14125062 1-Rank Ghost Hunting Ranking Pack
+14125063 2-Rank Ghost Hunting Ranking Pack
+14125064 3-Rank Ghost Hunting Ranking Pack
+14125065 4-Rank Ghost Hunting Ranking Pack
+14125066 5-Rank Ghost Hunting Ranking Pack
+14125067 6-Rank Ghost Hunting Ranking Pack
+14125068 Haunted Hause Pack
+14125069 Ghost Pack
+14125100 Slot Machine Vouchers
+14125101 Point
+14125111 Normal Turkey Box
+14125112 Good Turkey Box
+14125113 Fine Turkey Box
+14125114 Luxury Turkey Box
+14125115 Fancy Turkey Box
+14125116 Lucky Turkey Box
+14125117 Rank-1 Thanksgiving Pack
+14125118 Rank-2 Thanksgiving Pack
+14125119 Rank-3 Thanksgiving Pack
+14125120 Rank-4 Thanksgiving Pack
+14125121 Rank-5 Thanksgiving Pack
+14125122 Rank-6 Thanksgiving Pack
+14125123 Heart
+14125124 Shisui the Teleporter
+14125125 Christmas Gift Pack
+14125126 Christmas 100 Win Pack
+14125156 Snowflakes
+14125157 Xmas Gift
+14125158 Level 1 Christmas Ranking Pack
+14125159 Level 2 Christmas Ranking Pack
+14125160 Level 3 Christmas Ranking Pack
+14125161 Level 4 Christmas Ranking Pack
+14125162 Level 5 Christmas Ranking Pack
+14125163 Level 6 Christmas Ranking Pack
+14125164 Christmas Stocking
+14125165 锤子
+14125196 Genin egg pack
+14125197 Chunin egg pack
+14125198 Jonin egg pack
+14125199 Shadow egg pack
+14125200 Growth egg pack
+14125201 Reincarnate egg pack
+14125264 Ice Pitons
+14125265 Ice Element
+14125266 Ice Soul
+14125273 Blue Diamonds
+14125274 Alchemy Designs
+14125275 Ice Destiny Pack
+14125276 Ice Soul Pack
+14125277 Ice Reincarnation Pack
+14125278 Ice Practice Pack
+14125279 Ice Fury Pack
+14125280 Reanimated Itachi
+14125281 Genin Pack
+14125282 Chunin Pack
+14125283 Jounin Pack
+14125284 Kage's Pack
+14125285 400 Gold Purple Gift Pack
+14125286 400 Gold Golden Gift Pack
+14125287 400 Gold Red Gift Pack
+14125288 1600 Gold Purple Gift Pack
+14125289 1600 Gold Golden Gift Pack
+14125290 1600 Gold Red Gift Pack
+14125291 4000 Gold Purple Gift Pack
+14125292 4000 Gold Golden Gift Pack
+14125293 4000 Gold Red Gift Pack
+14125294 8000 Gold Purple Gift Pack
+14125295 8000 Gold Golden Gift Pack
+14125296 8000 Gold Red Gift Pack
+14125297 16000 Gold Purple Gift Pack
+14125298 16000 Gold Golden Gift Pack
+14125299 16000 Gold Red Gift Pack
+14125300 28000 Gold Purple Gift Pack
+14125301 28000 Gold Golden Gift Pack
+14125302 28000 Gold Red Gift Pack
+14125303 44000 Gold Purple Gift Pack
+14125304 44000 Gold Golden Gift Pack
+14125305 44000 Gold Red Gift Pack
+14125306 64000 Gold Purple Gift Pack
+14125307 64000 Gold Golden Gift Pack
+14125308 64000 Gold Red Gift Pack
+14125309 Tsunade's Dice 10 Wins Pack
+14125310 Tsunade's Dice 20 Wins Pack
+14125311 Tsunade's Dice 30 Wins Pack
+14125312 Tsunade's Dice 40 Wins Pack
+14125313 Tsunade's Dice 50 Wins Pack
+14125314 Tsunade's Dice 60 Wins Pack
+14125315 Tsunade's Dice 70 Wins Pack
+14125316 Tsunade's Dice 80 Wins Pack
+14125317 Tsunade's Dice 90 Wins Pack
+14125318 Valentines Giftpack
+14125319 Frost Set Box
+14125322 Numen
+14125325 Heart
+14125326 Rose
+14125361 level 1 numen ranking pack
+14125362 level 2 numen ranking pack
+14125363 level 3 numen ranking pack
+14125364 level 4 numen ranking pack
+14125365 level 5 numen ranking pack
+14125366 level 6 numen ranking pack
+14125367 level 1 culture pack
+14125368 level 2 culture pack
+14125369 level 3 culture pack
+14125370 level 4 culture pack
+14125371 S ability pack
+14125372 prestige pack
+14125373 Tsunade's Dice 10 Wins Pack
+14125374 Tsunade's Dice 20 Wins Pack
+14125375 Tsunade's Dice 30 Wins Pack
+14125376 Tsunade's Dice 40 Wins Pack
+14125377 Tsunade's Dice 50 Wins Pack
+14125378 Tsunade's Dice 60 Wins Pack
+14125379 Tsunade's Dice 70 Wins Pack
+14125380 Tsunade's Dice 80 Wins Pack
+14125381 Tsunade's Dice 90 Wins Pack
+14125382 Tsunade's Dice 100 Wins Pack
+14125383 level 1 Playground Ranking pack
+14125384 level 2 Playground Ranking pack
+14125385 level 3 Playground Ranking pack
+14125386 level 4 Playground Ranking pack
+14125387 level 5 Playground Ranking pack
+14125388 level 6 Playground Ranking pack
+14125389 Lucky Pig
+14125390 Pet exp pack
+14125391 level 1 culture pack
+14125392 level 2 culture pack
+14125393 level 3 culture pack
+14125394 level 4 culture pack
+14125395 Genin Pack
+14125396 Chunin Pack
+14125397 Jounin Pack
+14125398 Kage's Pack
+14125399 Lucky Gift Pack
+14125400 Surprise Gift Pack
+14125401 Glory Gift Pack
+14125402 400 Gold Purple Gift Pack
+14125403 400 Gold Golden Gift Pack
+14125404 400 Gold Red Gift Pack
+14125405 1600 Gold Purple Gift Pack
+14125406 1600 Gold Golden Gift Pack
+14125407 1600 Gold Red Gift Pack
+14125408 4000 Gold Purple Gift Pack
+14125409 4000 Gold Golden Gift Pack
+14125410 4000 Gold Red Gift Pack
+14125411 8000 Gold Purple Gift Pack
+14125412 8000 Gold Golden Gift Pack
+14125413 8000 Gold Red Gift Pack
+14125414 16000 Gold Purple Gift Pack
+14125415 16000 Gold Golden Gift Pack
+14125416 16000 Gold Red Gift Pack
+14125417 28000 Gold Purple Gift Pack
+14125418 28000 Gold Golden Gift Pack
+14125419 28000 Gold Red Gift Pack
+14125420 44000 Gold Purple Gift Pack
+14125421 44000 Gold Golden Gift Pack
+14125422 44000 Gold Red Gift Pack
+14125423 64000 Gold Purple Gift Pack
+14125424 64000 Gold Golden Gift Pack
+14125425 64000 Gold Red Gift Pack
+14125431 Konoha Jade Pack
+14125432 Konoha S Weapon Pack
+14125433 Konoha Practice Pack
+14125434 Konoha Summon Pack
+14125435 Konoha Reincarnation Pack
+14125436 Konoha Fairy Pack
+14125437 Reanimated Nagato
+14125438 Tsunade's Dice 10 Wins Pack
+14125439 Tsunade's Dice 20 Wins Pack
+14125440 Tsunade's Dice 30 Wins Pack
+14125441 Tsunade's Dice 40 Wins Pack
+14125442 Tsunade's Dice 50 Wins Pack
+14125443 Tsunade's Dice 60 Wins Pack
+14125444 Tsunade's Dice 70 Wins Pack
+14125445 Tsunade's Dice 80 Wins Pack
+14125446 Tsunade's Dice 90 Wins Pack
+14125447 Tsunade's Dice 100 Wins Pack
+14125448 800 Gold Purple Gift Pack
+14125449 800 Gold Golden Gift Pack
+14125450 800 Gold Red Gift Pack
+14125451 2800 Gold Purple Gift Pack
+14125452 2800 Gold Golden Gift Pack
+14125453 2800 Gold Red Gift Pack
+14125454 6800 Gold Purple Gift Pack
+14125455 6800 Gold Golden Gift Pack
+14125456 6800 Gold Red Gift Pack
+14125457 14800 Gold Purple Gift Pack
+14125458 14800 Gold Golden Gift Pack
+14125459 14800 Gold Red Gift Pack
+14125460 26800 Gold Purple Gift Pack
+14125461 26800 Gold Golden Gift Pack
+14125462 26800 Gold Red Gift Pack
+14125463 46800 Gold Purple Gift Pack
+14125464 46800 Gold Golden Gift Pack
+14125465 46800 Gold Red Gift Pack
+14125466 66800 Gold Purple Gift Pack
+14125467 66800 Gold Golden Gift Pack
+14125468 66800 Gold Red Gift Pack
+14125469 106800 Gold Purple Gift Pack
+14125470 106800 Gold Golden Gift Pack
+14125471 106800 Gold Red Gift Pack
+14125480 Level 1 Consumption Rank Pack
+14125481 Level 2 Consumption Rank Pack
+14125482 Level 3 Consumption Rank Pack
+14125483 Level 4 Consumption Rank Pack
+14125484 Level 5 Consumption Rank Pack
+14125522 Super Potency Pack
+14125523 Reincarnation Pack
+14125524 S Weapon Pack
+14125525 Practice Pack
+14125526 Genin Pack
+14125527 Chunin Pack
+14125528 Jounin Pack
+14125529 Kage's Pack
+14125536 Bean
+14125537 Rice Ball
+14125538 Offical Website Exclusive Pack A
+14125539 Offical Website Exclusive Pack B
+14125540 Offical Website Exclusive Pack C
+14125541 Offical Website Exclusive Pack D
+14125542 Offical Website Exclusive Pack E
+14125543 Offical Website Exclusive Pack F
+14125550 Jade Gift Bag
+14125551 Hermit Pack
+14125552 Treasure Box
+14125573 [Watermelon Hero] Title Pack
+14125574 [Shaved Ice Swordsman] Title Pack
+14125575 [Ice Cream Knight] Title Pack
+14125576 Indra·Sasuke
+14125577 Furious Bear Summoning Scroll
+14125578 Sage's Jewelry
+14125579 Gem Ranking Pack 1
+14125580 Gem Ranking Pack 2
+14125581 Gem Ranking Pack 3
+14125582 Gem Ranking Pack 4
+14125583 Gem Ranking Pack 5
+14125584 Gem Ranking Pack 6
+14125585 level 1 culture pack
+14125586 level 2 culture pack
+14125587 level 3 culture pack
+14125588 level 4 culture pack
+14125589 level 5 culture pack
+14125590 level 6 culture pack
+14125591 Magpie Summoning Scroll
+14125592 Azure Dragon Sumonning Scroll
+14125593 [Battle Lord] Title Pack
+14125594 [Fighting Spirit] Title Pack
+14125595 [Glorious Elite] Title Pack
+14125596 Asura · Naruto
+14125597 [Undying King] Title Pack
+14125598 [King's Protection] Title Pack
+14125599 [Heroic Army] Title Pack
+14125600 Otsutsuki Toneri
+14125601 [Bright Pope] Title Pack
+14125602 [Grim Witch] Title Pack
+14125603 [Frankenstein] Title Pack
+14125604 Energy Spar
+14125605 Scary Pumpkin
+14125606 Sage Treasure
+14125607 Exorcism Ranking Pack 1
+14125608 Exorcism Ranking Pack 2
+14125609 Exorcism Ranking Pack 3
+14125610 Exorcism Ranking Pack 4
+14125611 Exorcism Ranking Pack 5
+14125612 Exorcism Ranking Pack 6
+14125613 Ōtsutsuki Hamura
+14125614 Scroll of the Son of Demons
+14125615 [Grateful Heart] Title Pack
+14125616 [Rampage Turkey] Title Pack
+14125617 [Naughty Pumpkin] Title Pack
+14125618 Fury
+14125619 Kunai
+14125620 Shuriken
+14125621 Scroll
+14125622 Chakra
+14125623 S.Ability
+14125624 Growth Points
+14125625 Rashomon·Orochimaru
+14125626 SkyFlame·Rosefinch
+14125627 1-Bracket Celebration Ranking Reward
+14125628 2-Bracket Celebration Ranking Reward
+14125629 3-Bracket Celebration Ranking Reward
+14125630 4-Bracket Celebration Ranking Reward
+14125631 5-Bracket Celebration Ranking Reward
+14125632 6-Bracket Celebration Ranking Reward
+14125633 level 1 Playground Ranking pack
+14125634 level 2 Playground Ranking pack
+14125635 level 3 Playground Ranking pack
+14125636 level 4 Playground Ranking pack
+14125637 level 5 Playground Ranking pack
+14125638 level 6 Playground Ranking pack
+14125639 Christmas Treasure
+14125640 [Santa Claus] Title Pack
+14125641 [Red-nose Reindeer] Title Pack
+14125642 [Snowman Baby] Title Pack
+14125643 Rank-1 Christmas Ranking Pack
+14125644 Rank-2 Christmas Ranking Pack
+14125645 Bean
+14125646 Pray Card
+14125647 Rank-5 Christmas Ranking Pack
+14125648 Rank-6 Christmas Ranking Pack
+14125649 Christmas Wreath
+14125650 VIP Privilege Card
+14125651 Bespoke Spiritual Beast Card
+14125652 Top-up Ranking Pack Bracket 1
+14125653 Lucky Card
+14125654 [Ancient Lich] Title Pack
+14125655 [Mana Witch] Title Pack
+14125656 [Magician's Apprentice] Title Pack
+14125657 Hinata Uzumaki
+14125658 Red Nose Reindeer Summon Scroll
+14125659 Nether·Tortoise Scroll
+14125660 【Ice Queen】Title Pack
+14125661 【Icebringer】Title Pack
+14125662 【Snow Elf】Title Pack
+14125664 The Rabbit Goddess
+14125665 Bean
+14125666 Pray Card
+14125667 Mythical Animals·kirin
+14125668 Lucky Card
+14125669 Uchiha Shin
+14125670 [Ancient Lich] Title Pack
+14125671 [Mana Witch] Title Pack
+14125672 [Magician's Apprentice] Title Pack
+14125673 Firelord
+14125674 Sand Burial·Gaara
+14125675 Top consumer  rank pack 1
+14125676 Top consumer  rank pack 2
+14125677 Top consumer  rank pack 3
+14125678 Top consumer  rank pack 4
+14125679 Top consumer  rank pack 5
+14125680 VIP Bespoke Title Card
+14125681 [Holy Flame Devil] Title Pack
+14125682 [Master Of Fire] Title Pack
+14125683 [Fire Herald] Title Pack
+14125684 Exorcism Ranking Pack 1
+14125685 Exorcism Ranking Pack 2
+14125686 Exorcism Ranking Pack 3
+14125687 Exorcism Ranking Pack 4
+14125688 Exorcism Ranking Pack 5
+14125689 Exorcism Ranking Pack 6
+14125690 Chronos Saitama
+14125691 Not Ninja
+14125692 Baby Sasuke
+14125693 Diamonds
+14125694 Lucky Star
+14125695 [River Lord] Title Pack
+14125696 [Water Spirit] Title Pack
+14125697 [Sand Monster] Title Pack
+14125698 Energy Scroll
+14125699 Kage Spirit
+14125704 Baby Sasuke
+14125705 Max Level and Star Artifact Box
+14125706 Sindragosa
+14125707 Storm Dominator
+14125708 Windrider
+14125709 Gale Hunter
+14125710 Reanimated Hiruzen
+14125711 Naruto Badge
+14125712 Omelette
+14125713 Sushi
+14125714 Shrimp
+14125715 Salmon
+14125716 Kung Fu Panda
+14125717 [Dawn Goddess] Title Pack
+14125718 [Holylight Knight] Title Pack
+14125719 [Son of Twilight] Title Pack
+14125720 Naruto & Hinata
+14125721 Sun Wukong
+14125722 [Eternal Sea] Title Pack
+14125723 [Ocean Chaser] Title Pack
+14125724 [Song of the Sea] Title Pack
+14125725 Sasuke & Itachi
+14125726 Top consumer  rank pack 1
+14125727 Top consumer  rank pack 2
+14125728 Top consumer  rank pack 3
+14125729 Top consumer  rank pack 4
+14125730 Top consumer  rank pack 5
+14125731 Hydra
+14125732 [Lunar Legend] Title Pack
+14125733 [Wind Chaser] Title Pack
+14125734 [Shadow Killer] Title Pack
+14125735 Kakashi & Gai
+14125736 Exorcism Ranking Pack A
+14125737 Exorcism Ranking Pack B
+14125738 Exorcism Ranking Pack C
+14125739 Exorcism Ranking Pack D
+14125740 Warlord Weapon Box
+14125741 Warlord Armor Box
+14125742 Ranking Pack 1
+14125743 Ranking Pack 2
+14125744 Ranking Pack 3
+14125745 Ranking Pack 4
+14125746 Ranking Pack 5
+14125747 Ranking Pack 6
+14125748 Magic Fox
+14125749 [Stronger's Arrival] Title Pack
+14125750 [Gale Ninja] Title Pack
+14125751 [Light of Ninjas] Title Pack
+14125752 Crimson Treasure
+14125753 Crimson Jewellery
+14125754 Headless Knight
+14125755 Fire Beads
+14125756 Chakra Fruits
+14125757 Gedo Statue
+14125758 Madara & Obito
+14125759 Ranking Pack A
+14125760 Ranking Pack B
+14125761 Ranking Pack C
+14125762 Ranking Pack D
+14125763 Weapon Box
+14125764 Armor Box
+14125765 [Santa Claus] Title Pack
+14125766 [Reindeer Knight] Title Pack
+14125767 [Snowman Baby] Title Pack
+14125768 Corruptor Pack A
+14125769 Corruptor Pack B
+14125770 Corruptor Pack C
+14125771 Corruptor Pack D
+14125772 Corruptor Pack E
+14125773 Corruptor Pack F
+14125774 Christmas Jewellery
+14125775 Shinju
+14125776 Deidara & Sasori
+14125777 Hidan &  Kakuzu
+14125778 Dragon Horse
+14125779 Divine Break Treasure
+14125780 Sasuke & Sakura
+14125781 Lover
+14125782 Attending Gift Pack
+14125783 Ice Feather*4
+14125784 Minato & Kushina
+14125785 Frostfire Jewellery
+14125786 Naruto & Sasuke
+14125787 Ice Jewellery
+14125788 [Eternal] Title Pack
+14125789 [Yellow Flash] Title Pack
+14125790 [Final Fantasy] Title Pack
+14125791 [Crimson Comet] Title Pack
+14125792 [Valentine] Title Pack
+14125793 [Uchiha Karid] Title Pack
+14125834 Bloodline Power
+14125835 Chakra
+14125836 Genin Pack
+14125837 Chunin Pack
+14125838 Jounin Pack
+14125839 Kage's Pack
+14125840 Ice Feather*4
+14125841 Genin Pack
+14125842 Chunin Pack
+14125843 Jounin Pack
+14125844 Kage's Pack
+14125850 [Gaze of the Indra] Title Pack
+14125851 [Eye of the Red Lotus] Title Pack
+14125852 [Blade of the Dark Night] Title Pack
+14125853 Warlord Weapon Box
+14125854 Warlord Armor Box
+14125855 Top consumer  rank pack 1
+14125856 Top consumer  rank pack 2
+14125857 Top consumer  rank pack 3
+14125858 Top consumer  rank pack 4
+14125859 Top consumer  rank pack 5
+14125860 Ranking Pack 1
+14125861 Ranking Pack 2
+14125862 Ranking Pack 3
+14125863 Ranking Pack 4
+14125864 Ranking Pack 5
+14125865 Ranking Pack 6
+14125866 Golden Ball
+14125870 King Sachet
+14125871 Master Sachet
+14125872 Diamond Sachet
+14125873 Platinum Sachet
+14125874 Gold Sachet
+14125875 Silver Sachet
+14125876 Account Transfer Pack
+14125877 巴西线下礼包
+14125888 Tier 1 Ranks Pack
+14125889 Tier 2 Ranks Pack
+14125890 Tier 3 Ranks Pack
+14125891 Tier 4 Ranks Pack
+14125892 Tier 5 Ranks Pack
+14125893 Tier 6 Ranks Pack
+14125894 Genin Pack
+14125895 Chunin Pack
+14125896 Jounin Pack
+14125897 Kage's Pack
+14125898 Gift Pack
+14125899 Ranking Pack 1
+14125900 Ranking Pack 2
+14125901 Ranking Pack 3
+14125902 Ranking Pack 4
+14125903 Ranking Pack 5
+14125904 Ranking Pack 6
+14125905 Fortune Pack
+14125908 Genin Pack
+14125909 Chunin Pack
+14125910 Jounin Pack
+14125911 Kage's Pack
+14125912 Gift Pack
+14125913 Warlord Weapon Box
+14125914 Gold Ranking Pack 1
+14125915 Gold Ranking Pack 2
+14125916 Gold Ranking Pack 3
+14125917 Gold Ranking Pack 4
+14125918 Gold Ranking Pack 5
+14125919 Coupon Ranking Pack 1
+14125920 Coupon Ranking Pack 2
+14125921 Coupon Ranking Pack 3
+14125922 Coupon Ranking Pack 4
+14125923 Coupon Ranking Pack 5
+14125924 Warlord Armor Box
+14125925 Ranking Pack 1
+14125926 Ranking Pack 2
+14125927 Ranking Pack 3
+14125928 Ranking Pack 4
+14125929 Ranking Pack 5
+14125930 Ranking Pack 6
+14125931 Reincarnation Gift Pack
+14125932 Friut Gift Pack
+14125933 Enhance Gift Pack
+14125934 Ranking Pack 1
+14125935 Ranking Pack 2
+14125936 Ranking Pack 3
+14125937 Ranking Pack 4
+14125938 Ranking Pack 5
+14125939 Ranking Pack 6
+14125950 Ranking Pack 1
+14125951 Ranking Pack 2
+14125952 Ranking Pack 3
+14125953 Ranking Pack 4
+14125954 Ranking Pack 5
+14125955 Ranking Pack 6
+14125970 Top consumer  rank pack 1
+14125971 Top consumer  rank pack 2
+14125972 Top consumer  rank pack 3
+14125973 Top consumer  rank pack 4
+14125974 Top consumer  rank pack 5
+14125975 VIP 1
+14125976 VIP 2
+14125977 VIP 3
+14125978 VIP 4
+14125979 VIP 5
+14125980 Ranking Pack 1
+14125981 Ranking Pack 2
+14125982 Ranking Pack 3
+14125983 Ranking Pack 4
+14125984 Ranking Pack 5
+14125985 Ranking Pack 6
+14125991 Ranking Pack 1
+14125992 Ranking Pack 2
+14125993 Ranking Pack 3
+14126001 Dragon Scale
+14126002 Wishing Star
+14126003 Wish Point
+14126004 Surprise Pack
+14126005 Colorful Pack
+14126006 Practice Pack
+14126007 Jade Pack
+14126008 Hermit Pack
+14126009 RI Pack
+14126010 Rank-1 Dragonslay Pack
+14126011 Rank-2 Dragonslay Pack
+14126012 Rank-3 Dragonslay Pack
+14126013 Rank-4 Dragonslay Pack
+14126014 Rank-5 Dragonslay Pack
+14126015 Rank-6 Dragonslay Pack
+14126016 Holy Light·Tiger Summon Scroll
+14126031 Tsunade's Dice 10 Wins Pack
+14126032 Tsunade's Dice 20 Wins Pack
+14126033 Tsunade's Dice 30 Wins Pack
+14126034 Tsunade's Dice 40 Wins Pack
+14126035 Tsunade's Dice 50 Wins Pack
+14126036 Tsunade's Dice 60 Wins Pack
+14126037 Tsunade's Dice 70 Wins Pack
+14126038 Tsunade's Dice 80 Wins Pack
+14126039 Tsunade's Dice 90 Wins Pack
+14126040 100 Win Gift Pack
+14126041 百胜礼包
+14126042 Zero Box
+14126043 Azure Box
+14126044 White Box
+14126045 Vermilion Box
+14126046 Boar Box
+14126047 Void Box
+14126048 South Box
+14126049 North Box
+14126050 Three Box
+14126051 Sphere Box
+14126052 Akatsuki Box
+14126053 Kage Box
+14126054 Sage Box
+14126055 Six Paths Box
+14126056 六道礼盒
+14126057 Genin Pack
+14126058 Chunin Pack
+14126059 Jounin Pack
+14126060 Kage's Pack
+14126061 Zero Box
+14126062 Azure Box
+14126063 White Box
+14126064 Vermilion Box
+14126065 Boar Box
+14126066 Void Box
+14126067 South Box
+14126068 North Box
+14126069 Three Box
+14126070 Sphere Box
+14126071 Akatsuki Box
+14126072 Kage Box
+14126073 Sage Box
+14126074 Six Paths Box
+14126075 Ninja Box
+14126080 Lucky  Gift Pack
+14126081 Ranking Pack 2
+14126082 Ranking Pack 3
+14126083 Ranking Pack 1
+14126084 Ranking Pack 2
+14126085 Ranking Pack 3
+14126086 Ranking Pack 4
+14126087 Ranking Pack 5
+14126088 Ranking Pack 6
+14126100 Genin Pack
+14126101 Chunin Pack
+14126102 Jounin Pack
+14126103 Kage's Pack
+14126104 Ninja Pack
+14126105 Genin Pack
+14126106 Chunin Pack
+14126107 Jounin Pack
+14126108 Kage's Pack
+14126109 Triple-headed Snake
+14126110 Enma
+14126111 Skull Sucks
+14126112 Obito-Sham
+14126113 Dark Memoria 愛
+14126126 Ninja Pack
+14126138 Silver Pack
+14126139 Jade Pack
+14126140 Artifacts Pack
+14126141 Genin Pack
+14126142 Chunin Pack
+14126143 Jounin Pack
+14126144 Kage's Pack
+14126145 Ninja Pack
+14126146 Genin Pack
+14126147 Chunin Pack
+14126148 Jounin Pack
+14126149 Kage's Pack
+14126150 Ninja Pack
+14126151 Ranking Pack 1
+14126152 Ranking Pack 2
+14126153 Ranking Pack 3
+14126154 Ranking Pack 4
+14126155 Ranking Pack 5
+14126156 Heroism VIP Weapon Privilege Card
+14126160 Ranking Pack 1
+14126161 Ranking Pack 2
+14126162 Ranking Pack 3
+14126163 Ranking Pack 4
+14126164 Ranking Pack 5
+14126165 Ranking Pack 6
+14126166 Ranking Pack 1
+14126167 Ranking Pack 2
+14126168 Ranking Pack 3
+14126169 Ranking Pack 4
+14126170 Ranking Pack 5
+14126171 New Year Gift Pack
+14126172 Welfare pack 1
+14126173 Welfare pack 2
+14126174 Welfare pack 3
+14126175 Welfare pack 4
+14126176 Welfare pack 5
+14126177 Welfare pack 6
+14126190 Discord Pack
+14126194 Genin Pack
+14126195 Chunin Pack
+14126196 Jounin Pack
+14126197 Kage's Pack
+14126198 Ninja Pack
+14126223 Genin Pack
+14126224 Chunin Pack
+14126225 Jounin Pack
+14126226 Kage's Pack
+14126227 Ninja Pack
+14126233 Coupon pack 18888
+14126247 [River Lord] Title Pack
+14126248 [Water Spirit] Title Pack
+14126249 [Sand Monster] Title Pack
+14126250 [Santa Claus] Title Pack
+14126251 [Reindeer Knight] Title Pack
+14126252 [Snowman Baby] Title Pack
+14126253 [Holy Flame Devil] Title Pack
+14126254 [Master Of Fire] Title Pack
+14126255 [Fire Herald] Title Pack
+14126256 [Stronger's Arrival] Title Pack
+14126257 [Gale Ninja] Title Pack
+14126258 [Light of Ninjas] Title Pack
+14126278 Invitation rewards
+14126279 Recharge rewards 1
+14126280 Recharge rewards 2
+14126281 Recharge rewards 3
+14126282 Recharge rewards 4
+14126283 Recharge rewards 5
+14126284 Recharge rewards 6
+14126285 Recharge rewards 7
+14126286 Recharge rewards 8
+14126287 Recharge rewards 9
+14126288 VIP1 Regression Pack
+14126289 VIP2 Regression Pack
+14126290 VIP3 Regression Pack
+14126291 VIP4 Regression Pack
+14126292 VIP5 Regression Pack
+14126293 VIP6 Regression Pack
+14126294 VIP7 Regression Pack
+14126295 VIP8 Regression Pack
+14126296 VIP9 Regression Pack
+14126297 VIP10 Regression Pack
+14126298 [Bright Pope] Title Pack
+14126299 [Grim Witch] Title Pack
+14126300 [Frankenstein] Title Pack
+14126305 【Eternal Will】Title Pack
+14126306 【Crisis Terminator】Title Pack
+14126307 【Statue Hunter】Title Pack
+14126309 【Stronger's Arrival】
+14126310 【Gale Ninja】
+14126311 【Light of Ninjas】
+14126314 Divine EXP Scroll
+14126317 [Undying King] Title Pack
+14126318 [King's Protection] Title Pack
+14126319 [Heroic Army] Title Pack
+14126320 [Dragon Bane] Title Pack
+14126321 [Dragon Slayer] Title Pack
+14126322 [Dragon Fighter] Title Pack
+14126326 【Flower Deity】Title Pack
+14126327 【Escort】Title Pack
+14126328 【Defloration Poet】Title Pack
+14126329 【Vampire Lord】Title Pack
+14126330 【Screaming Ghost】Title Pack
+14126331 【Masked Geek】Title Pack
+14126332 【Thanksgiving Star】Title Pack
+14126333 【Rebel Turkey】Title Pack
+14126334 【Stubborn Pumpkin】Title Pack
+14126335 【God of Thunder】
+14126336 【Xmas Angel】Title Pack
+14126337 【Snow Blessing】Title Pack
+14126338 【Snow Elf】Title Pack
+14126339 【Numen Tamer King】Title Pack
+14126340 【Numen Buster】Title Pack
+14126341 【Numen Hunter】Title Pack
+14126342 Recharge Pack
+14126343 Single 12000g Pack
+14126344 Single 20000g Pack
+14126345 福の礼包
+14126346 Genin Pack
+14126347 Chunin Pack
+14126348 Jounin Pack
+14126349 Kage's Pack
+14126350 Genin Pack
+14126351 Chunin Pack
+14126352 Jounin Pack
+14126353 Kage's Pack
+14126354 Zero Box
+14126355 Azure Box
+14126356 White Box
+14126357 Vermilion Box
+14126358 Boar Box
+14126359 Void Box
+14126360 South Box
+14126361 North Box
+14126362 Three Box
+14126363 Sphere Box
+14126364 Akatsuki Box
+14126365 Kage Box
+14126366 Sage Box
+14126367 Six Paths Box
+14126368 乐充选择包
+14126369 每日乐充礼包
+14126370 Shukaku Pack
+14126371 Matatabi Pack
+14126372 Isobu Pack
+14126373 Son Gokuu Pack
+14126374 Kokuou Pack
+14126375 Saike Pack
+14126376 Choumei Pack
+14126377 Gyuuki Pack
+14126378 Kurama Pack
+14126379 Shinju Pack
+14126380 【Ice Lord】Title Pack
+14126381 【Storm Warlord】Title Pack
+14126382 【Hurricane Fighter】Title Pack
+14126383 【Blessed】Title Pack
+14126384 【Super Lucky】Title Pack
+14126385 【Lucky】Title Pack
+14126386 【Sun Lord】
+14126387 【Sea Warrior】
+14126388 【Wave Bringer】
+14126391 【Battle Lord】Title Pack
+14126392 【Fighting Spirit】Title Pack
+14126393 【Glorious Elite】Title Pack
+14126394 【Watermelon Hero】Title Pack
+14126395 【Shaved Ice Swordsman】Title Pack
+14126396 【Ice Cream Knight】Title Pack
+14126398 【Treasure Master】Title Pack
+14126399 【Treasure Hunter】Title Pack
+14126400 【Treasure Warrior】Title Pack
+14126401 【Darkness King】Title Pack
+14126402 【Monster Hunter】Title Pack
+14126403 【Exploration Pioneer】Title Pack
+14126407 【Dragon Tamer】Title Pack
+14126408 【Dragon Slayer】Title Pack
+14126409 【Dragon Hunter】Title Pack
+14126410 【Heasless Knight】Title Pack
+14126411 【Evil Pumpkin】Title Pack
+14126412 【Candy Witch】Title Pack
+14126413 【Grateful Heart】Title Pack
+14126414 【Rampage Turkey】Title Pack
+14126415 【Naughty Pumpkin】Title Pack
+14126416 【Christmas Star】Title Pack
+14126417 【The Red Nose Rudolph】Title Pack
+14126418 【Frosty the Snowman】Title Pack
+14126421 【Happy God】Title Pack
+14126422 【Arena Master 】Title Pack
+14126423 【Defy Pioneer】Title Pack
+14126424 【Space Ruler】Title Pack
+14126425 【Space Explorer】Title Pack
+14126426 【Space Ranger】Title Pack
+14126427 【Ice Queen】Title Pack
+14126428 【Icebringer】Title Pack
+14126429 【Snow Elf】Title Pack
+14126432 【Eternal Sea】Title Pack
+14126433 【Ocean Chaser】Title Pack
+14126434 【Song of the Sea】Title Pack
+14126435 [Lunar Legend] Title Pack
+14126436 [Wind Chaser] Title Pack
+14126437 [Shadow Killer] Title Pack
+14126439 【russia 2018】
+14126440 【Dawn Goddess】Title Pack
+14126441 【Holylight Knight】Title Pack
+14126442 【Son of Twilight】Title Pack
+14126443 Diamonds
+14126444 Energy Scroll
+14126445 Kage Spirit
+14126446 Magic Box 50 Times Chest
+14126447 Magic Box 100 Times Chest
+14126448 Magic Box 200 Times Chest
+14126449 Magic Box 300 Times Chest
+14126450 Magic Box 400 Times Chest
+14126451 Magic Box 500 Times Chest
+14126458 【EMPRESS】Title Pack
+14126463 【Spirit Oracle】Title Pack
+14126464 【Bless Envoy】Title Pack
+14126465 【Protect Priest】Title Pack
+14126467 Level up Maniacs Pack 1
+14126468 Level up Maniacs Pack 2
+14126469 Level up Maniacs Pack 3
+14126470 Level up Maniacs Pack 4
+14126471 Level up Maniacs Pack 5
+14126472 Arena Rank Pack 1
+14126473 Arena Rank Pack 2
+14126474 Arena Rank Pack 3
+14126475 Arena Lucky Pack
+14126476 Combat Power Rank Pack 1
+14126477 Combat Power Rank Pack 2
+14126478 Combat Power Rank Pack 3
+14126479 Combat Power Rank Pack 4
+14126480 Combat Power Rank Pack 5
+14126481 Goal of Combat Power Pack
+14126484 【Storm Dominator】Title Pack
+14126485 【Windrider】Title Pack
+14126486 【Gale Hunter】Title Pack
+14126488 【Ancient Lich】Title Pack
+14126489 【Mana Witch】Title Pack
+14126490 【Magician's Apprentice】Title Pack
+14126491 【Whisper of Love】Title Pack
+14126492 1-Rank Ghost Hunting Ranking Pack
+14126493 2-Rank Ghost Hunting Ranking Pack
+14126494 3-Rank Ghost Hunting Ranking Pack
+14126495 4-Rank Ghost Hunting Ranking Pack
+14126496 5-Rank Ghost Hunting Ranking Pack
+14126497 6-Rank Ghost Hunting Ranking Pack
+14126498 Common Magic Potion Pack
+14126499 Good Magic Potion Pack
+14126500 Fine Magic Potion Pack
+14126501 Luxury Magic Potion Pack
+14126502 Fancy Magic Potion Pack
+14126503 Crystal Ball Pack
+14126504 【Santa Claus】Title Pack
+14126505 【Red-nose Reindeer】Title Pack
+14126506 【Snowman Baby】Title Pack
+14126508 【River Lord】Title Pack
+14126509 【Water Spirit】Title Pack
+14126510 【Sand Monster】Title Pack
+14126522 【Drum God】Title Pack
+14126523 【Drum Master】Title Pack
+14126524 【Drum Rookie】Title Pack
+14126528 【Queen of Hueco Mundo】Title Pack
+14126530 【Endless Happiness】Title Pack
+14130001 400 Gold Purple Gift Pack
+14130002 400 Gold Golden Gift Pack
+14130003 400 Gold Red Gift Pack
+14130004 1600 Gold Purple Gift Pack
+14130005 1600 Gold Golden Gift Pack
+14130006 1600 Gold Red Gift Pack
+14130007 4000 Gold Purple Gift Pack
+14130008 4000 Gold Golden Gift Pack
+14130009 4000 Gold Red Gift Pack
+14130010 8000 Gold Purple Gift Pack
+14130011 8000 Gold Golden Gift Pack
+14130012 8000 Gold Red Gift Pack
+14130013 16000 Gold Purple Gift Pack
+14130014 16000 Gold Golden Gift Pack
+14130015 16000 Gold Red Gift Pack
+14130016 28000 Gold Purple Gift Pack
+14130017 28000 Gold Golden Gift Pack
+14130018 28000 Gold Red Gift Pack
+14130019 44000 Gold Purple Gift Pack
+14130020 44000 Gold Golden Gift Pack
+14130021 44000 Gold Red Gift Pack
+14130022 64000 Gold Purple Gift Pack
+14130023 64000 Gold Golden Gift Pack
+14130024 64000 Gold Red Gift Pack
+14130025 Genin Pack
+14130026 Chunin Pack
+14130027 Jounin Pack
+14130028 Kage's Pack
+14130029 Akatsuki's Jewellery
+14130030 Genin Pack
+14130031 Chunin Pack
+14130032 Jounin Pack
+14130033 Kage's Pack
+14130034 Tsunade's Dice 10 Wins Pack
+14130035 Tsunade's Dice 20 Wins Pack
+14130036 Tsunade's Dice 30 Wins Pack
+14130037 Tsunade's Dice 40 Wins Pack
+14130038 Tsunade's Dice 50 Wins Pack
+14130039 Tsunade's Dice 60 Wins Pack
+14130040 Tsunade's Dice 70 Wins Pack
+14130041 Tsunade's Dice 80 Wins Pack
+14130042 Tsunade's Dice 90 Wins Pack
+14130043 Tsunade's Dice 100 Wins Pack
+14130044 Christmas Cumulative Top-up Bonus Pack lv.1
+14130045 Christmas Cumulative Top-up Bonus Pack lv.2
+14130046 Christmas Cumulative Top-up Bonus Pack lv.3
+14130047 Christmas Cumulative Top-up Bonus Pack lv.4
+14130048 Christmas Cumulative Top-up Bonus Pack lv.5
+14130049 Christmas Cumulative Top-up Bonus Pack lv.6
+14130050 Christmas Cumulative Top-up Bonus Pack lv.7
+14130051 Christmas Cumulative Top-up Bonus Pack lv.8
+14130052 Christmas Daily Login Bonus Pack
+14190001 Ninja Card
+14190002 Ninja Treasure
+14190157 10-Tails Force Fruit
+14190158 10-Tails Agility Fruit
+14190159 10-Tails Chakra Fruit
+14190160 10-Tails Power Fruit
+14190161 Broken Force Fruit
+14190162 Plump Force Fruit
+14190163 Perfect Force Fruit
+14190164 Broken Agility Fruit
+14190165 Plump Agility Fruit
+14190166 Perfect Agility Fruit
+14190167 Broken Chakra Fruit
+14190168 Plump Chakra Fruit
+14190169 Perfect Chakra Fruit
+14190170 Broken Power Fruit
+14190171 Plump Power Fruit
+14190172 Perfect Power Fruit
+14190201 Lv.3 1-Tail Force Fruit
+14190202 Lv.3 1-Tail Agility Fruit
+14190203 Lv.5 1-Tail Chakra Fruit
+14190204 Lv.5 1-Tail Power Fruit
+14190205 Lv.5 1-Tail Force Fruit
+14190206 Lv.5 1-Tail Agility Fruit
+14190207 Lv.9 1-Tail Chakra Fruit
+14190208 Lv.9 1-Tail Power Fruit
+14190209 Lv.9 1-Tail Force Fruit
+14190210 Lv.9 1-Tail Agility Fruit
+14190211 Lv.3 2-Tails Chakra Fruit
+14190212 Lv.3 2-Tails Power Fruit
+14190213 Lv.3 2-Tails Force Fruit
+14190214 Lv.3 2-Tails Agility Fruit
+14190215 Lv.5 2-Tails Chakra Fruit
+14190216 Lv.5 2-Tails Power Fruit
+14190217 Lv.5 2-Tails Force Fruit
+14190218 Lv.5 2-Tails Agility Fruit
+14190219 Lv.9 2-Tails Chakra Fruit
+14190220 Lv.9 2-Tails Power Fruit
+14190221 Lv.9 2-Tails Force Fruit
+14190222 Lv.9 2-Tails Agility Fruit
+14190223 Lv.3 3-Tails Chakra Fruit
+14190224 Lv.3 3-Tails Power Fruit
+14190225 Lv.3 3-Tails Force Fruit
+14190226 Lv.3 3-Tails Agility Fruit
+14190227 Lv.5 3-Tails Chakra Fruit
+14190228 Lv.5 3-Tails Power Fruit
+14190229 Lv.5 3-Tails Force Fruit
+14190230 Lv.5 3-Tails Agility Fruit
+14190231 Lv.9 3-Tails Chakra Fruit
+14190232 Lv.9 3-Tails Power Fruit
+14190233 Lv.9 3-Tails Force Fruit
+14190234 Lv.9 3-Tails Agility Fruit
+14190235 Lv.3 4-Tails Chakra Fruit
+14190236 Lv.3 4-Tails Power Fruit
+14190237 Lv.3 4-Tails Force Fruit
+14190238 Lv.3 4-Tails Agility Fruit
+14190239 Lv.5 4-Tails Chakra Fruit
+14190240 Lv.5 4-Tails Power Fruit
+14190241 Lv.5 4-Tails Force Fruit
+14190242 Lv.5 4-Tails Agility Fruit
+14190243 Lv.9 4-Tails Chakra Fruit
+14190244 Lv.9 4-Tails Power Fruit
+14190245 Lv.9 4-Tails Force Fruit
+14190246 Lv.9 4-Tails Agility Fruit
+14190247 Lv.3 5-Tails Chakra Fruit
+14190248 Lv.3 5-Tails Power Fruit
+14190249 Lv.3 5-Tails Force Fruit
+14190250 Lv.3 5-Tails Agility Fruit
+14190251 Lv.5 5-Tails Chakra Fruit
+14190252 Lv.5 5-Tails Power Fruit
+14190253 Lv.5 5-Tails Force Fruit
+14190254 Lv.5 5-Tails Agility Fruit
+14190255 Lv.9 5-Tails Chakra Fruit
+14190256 Lv.9 5-Tails Power Fruit
+14190257 Lv.9 5-Tails Force Fruit
+14190258 Lv.9 5-Tails Agility Fruit
+14190259 General Force Fruit
+14190260 General Agility Fruit
+14190261 General Chakra Fruit
+14190262 General Power Fruit
